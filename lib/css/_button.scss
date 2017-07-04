@@ -1,0 +1,21 @@
+.button {
+  -webkit-font-smoothing: antialiased;
+  background-color: $color-navy;
+  border-radius: 4px;
+  color: $color-white;
+  display: inline-block;
+  font-size: 0.875rem;
+  font-weight: 800;
+  padding: 0.75em 1em;
+  text-decoration: none;
+
+  &--span {
+    display: block;
+    text-align: center;
+  }
+
+  &:active,
+  &:hover {
+    background-color: lighten($color-navy, 3%);
+  }
+}

@@ -1,0 +1,8 @@
+---
+title: "Abdication"
+index: "129"
+audio: "129-abdication.mp3"
+order: 138
+---
+
+In 305 AD, Diocletian and Maximian voluntarily abdicated the throne, handing power over to Galerius and Constantius.

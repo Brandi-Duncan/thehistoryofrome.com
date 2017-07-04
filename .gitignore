@@ -1,0 +1,7 @@
+.DS_Store
+lib/audio/
+_site/
+.sass-cache/
+.jekyll-metadata
+node_modules/
+*.log

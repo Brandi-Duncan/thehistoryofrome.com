@@ -1,0 +1,26 @@
+.post-list {
+  list-style: none;
+  padding: 0;
+
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.post-list__index {
+  display: block;
+  float: left;
+  font-weight: 800;
+  text-align: right;
+  width: 4rem;
+  padding-right: 1rem;
+}
+
+.post-list__item {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
