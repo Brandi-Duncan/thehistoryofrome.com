@@ -2,8 +2,6 @@
 title: Bibliography
 ---
 
-# Bibliography
-
 ## Ancient Sources
 
 - *The Early History of Rome* by Livy
