@@ -72,10 +72,10 @@ title: Bibliography
 - *The Cambridge Companion to the Age of Constantine* ed Noel Lenski
 
 
-## Archeology
+## Archaeology
 
 - *Rome and Environs* by Filippo Coarelli
-- *Rome: An Oxford Archeological Guide* ed Amanda Claridge
+- *Rome: An Oxford Archaeological Guide* ed Amanda Claridge
 - *Rome Alive: A Source Guide to the Ancient City* ed Peter Aicher
 - *Rome Past and Present* by Vision Publications
 - *The Colosseum* by Keith Hopkins
