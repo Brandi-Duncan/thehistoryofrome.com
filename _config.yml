@@ -15,4 +15,4 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /episode/:short_year:month:day-:title
+      permalink: /episode/:slug/

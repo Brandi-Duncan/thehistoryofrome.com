@@ -13,9 +13,13 @@ title: "${post.title}"
 index: "${post.index}"
 audio: "${post.audio}"
 order: ${n}
+slug: "${post.index}"
 ---
 
-${toMarkdown(post.body)}
+${toMarkdown(post.body).replace(
+  /\[.+\]\(.+traffic\.libsyn\.com.+\)/,
+  ''
+)}
 `;
 
 function writePost(post, n) {
@@ -23,7 +27,7 @@ function writePost(post, n) {
   const y = date.getFullYear();
   const m = padZero(date.getMonth() + 1);
   const d = padZero(date.getDate());
-  const filename = `${y}-${m}-${d}-${slug(post.title, { lower: true })}`;
+  const filename = `${y}-${m}-${d}-${post.index}-${slug(post.title, { lower: true })}`;
 
   fs.writeFile(
     __dirname + '/_posts/' + filename + '.md',

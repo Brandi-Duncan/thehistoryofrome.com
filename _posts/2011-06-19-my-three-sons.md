@@ -1,8 +1,0 @@
----
-title: "My Three Sons"
-index: "140"
-audio: "140-my-three-sons.mp3"
-order: 149
----
-
-The three sons of Constantine took control of the Empire following the death of their father and the murder of most of their extended family.

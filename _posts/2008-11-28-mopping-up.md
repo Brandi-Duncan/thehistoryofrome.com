@@ -1,6 +1,0 @@
----
-title: "Mopping Up"
-index: "27"
-audio: "27-mopping-up.mp3"
-order: 34
----
