@@ -6,10 +6,4 @@ order: 170
 slug: "161"
 ---
 
-<div>
-
 Alaric and his Goths invaded Italy in 402\. After they were pushed out, Stilicho moved the seat of the Western Imperial Court to the city of Ravenna. 
-
-</div>
-
-

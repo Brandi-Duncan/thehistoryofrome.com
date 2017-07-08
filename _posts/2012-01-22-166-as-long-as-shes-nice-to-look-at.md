@@ -6,10 +6,4 @@ order: 175
 slug: "166"
 ---
 
-<div>
-
 Constantius III continued to lead the Western Empire as its defacto Emperor until 421, when he was officially elevated to the rank of Augustus. Unfortunately, this elevation was not recognized by Cosntantinople.
-
-</div>
-
-
