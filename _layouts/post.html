@@ -2,6 +2,11 @@
 layout: default
 ---
 
+{% assign nextPostIndex = page.order | plus: 1 %}
+{% assign prevPostIndex = page.order | minus: 1 %}
+{% assign nextPost = site.posts | where: "order", nextPostIndex | first %}
+{% assign prevPost = site.posts | where: "order", prevPostIndex | first %}
+
 {% include header.html %}
 <main class="wrap">
     <article class="post">
