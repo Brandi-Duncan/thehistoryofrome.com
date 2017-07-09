@@ -4,1322 +4,1511 @@
     "date": "Fri Jul 27 2007 11:59:00 GMT-0500 (CDT)",
     "body": "<p>Welcome to The History of Rome, a weekly series tracing the rise and fall of the Roman Empire. Today we will hear the mythical origin story of Rome and compare it with modern historical and archaeological evidence. How much truth is wrapped up in the legend? We end this week with the death of Remus and the founding of Rome.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/01-_In_the_Beginning.mp3\" target=\"_self\">1- In the Beginning&#0160;</a></p>",
     "index": "1",
-    "audio": "1-in-the-beginning.mp3"
+    "audio": "1-in-the-beginning.mp3",
+    "order": 0
   },
   {
     "title": "Youthful Indiscretions",
     "date": "Wed Nov 05 2008 11:58:00 GMT-0600 (CST)",
     "body": "<p>Last time we discussed the events that lead to the birth of Rome, covering the arrival of Aeneas in Italy and the story of the twins Romulus and Remus. Today we will cover the remainder of Romulus&#39;s life, his questionable morality and ultimate disappearance from the world of men.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/02-_Youthful_Indiscretions.mp3\" target=\"_self\">2- Youthful Indiscretions</a></p>\r\n<p>&#0160;</p>",
     "index": "2",
-    "audio": "2-youthful-indiscretions.mp3"
+    "audio": "2-youthful-indiscretions.mp3",
+    "order": 1
   },
   {
     "title": "The Seven Kings of Rome",
     "date": "Thu Nov 06 2008 11:58:00 GMT-0600 (CST)",
     "body": "<p>This week we cover the first three of Romulus&#39;s successors to the throne: Numa Pompulius, Tullus Hostilius and Ancus Marcius, who they were and what affect they had on the evolution Roman law and culture.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/03a-_The_Seven_Kings_of_Rome.mp3\" target=\"_self\">3a- The Seven Kings of Rome</a></p>",
     "index": "3a",
-    "audio": "3a-the-seven-kings-of-rome.mp3"
+    "audio": "3a-the-seven-kings-of-rome.mp3",
+    "order": 2
   },
   {
     "title": "The Seven Kings of Rome",
     "date": "Fri Nov 07 2008 11:56:00 GMT-0600 (CST)",
     "body": "<p>The last days of the Roman Kingdom were ruled over by the three members of the so-called Tarquin Dynasty: Tarquinius Priscus, Servius Tullius and Tarquinius Superbus. The last proved to be such a tyrant that he was overthrown and monarchy was forever outlawed by the Romans.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/03b-_The_Seven_Kings_of_Rome.mp3\" target=\"_self\">3b- The Seven Kings of Rome</a></p>",
     "index": "3b",
-    "audio": "3b-the-seven-kings-of-rome.mp3"
+    "audio": "3b-the-seven-kings-of-rome.mp3",
+    "order": 3
   },
   {
     "title": "The Public Thing",
     "date": "Sat Nov 08 2008 11:55:00 GMT-0600 (CST)",
     "body": "<p>The monarchy had been overthrown and the Roman Republic was now established. Despite the appearance of a free democratic republic, the Romans were beset with economic and political divisions that threatened the unity of the young State.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/04-_The_Public_Thing.mp3\" target=\"_self\">4- The Public Thing<br /></a></p>\r\n<p>&#0160;</p>",
     "index": "4",
-    "audio": "4-the-public-thing.mp3"
+    "audio": "4-the-public-thing.mp3",
+    "order": 4
   },
   {
     "title": "Trials and Tribunlations",
     "date": "Sun Nov 09 2008 11:54:00 GMT-0600 (CST)",
     "body": "<p>The infant Roman Republic faced many challenges as it grew into adolescence, both internally and externally. Most significantly class divisions led to a confrontation between patricians and plebs that resulted in the creation of the office of Tribune.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/05-_Trials_and_Tribunlations.mp3\" target=\"_self\">5- Trials and Tribunlations</a></p>",
     "index": "5",
-    "audio": "5-trials-and-tribunlations.mp3"
+    "audio": "5-trials-and-tribunlations.mp3",
+    "order": 5
   },
   {
     "title": "The Twelve Tables",
     "date": "Mon Nov 10 2008 11:53:00 GMT-0600 (CST)",
     "body": "<p>In 451 BC a committee was ordered to compile and then condense Roman law into a single text called the Twelve Tables of Law. Despite tyrannical machinations by the committee, the Twelve Tables secured an objective rule of law for all Roman citizens regardless of wealth or class.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/06__The_Twelve_Tables.mp3\" target=\"_self\">6- The Twelve Tables</a></p>",
     "index": "6",
-    "audio": "6-the-twelve-tables.mp3"
+    "audio": "6-the-twelve-tables.mp3",
+    "order": 6
   },
   {
     "title": "The Roman Washington",
     "date": "Tue Nov 11 2008 11:52:00 GMT-0600 (CST)",
     "body": "<p>Cincinnatus was famously appointed dictator of Rome in 458 BC and then resigned soon after, securing his place in history as a paradigm of republican virtue.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/07-_The_Roman_Washington.mp3\" target=\"_self\">7- The Roman Washington</a></p>",
     "index": "7",
-    "audio": "7-the-roman-washington.mp3"
+    "audio": "7-the-roman-washington.mp3",
+    "order": 7
   },
   {
     "title": "Decades of Gloom",
     "date": "Wed Nov 12 2008 11:52:00 GMT-0600 (CST)",
     "body": "<p>The years after the creation of the Twelve Tables were hard. Political discord, grain shortages and famine all conspired to weaken the city, but the Romans soldiered on in the face of seemingly insurmountable adversity.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/08__Decades_of_Gloom.mp3\" target=\"_self\">8- Decades of Gloom</a></p>",
     "index": "8",
-    "audio": "8-decades-of-gloom.mp3"
+    "audio": "8-decades-of-gloom.mp3",
+    "order": 8
   },
   {
     "title": "A Trojan War",
     "date": "Thu Nov 13 2008 11:50:00 GMT-0600 (CST)",
     "body": "<p>Economic necessity forced a final conflict with Veii, Rome&#39;s Etruscan rival to the north. After years of inconclusive fighting, Marcus Furius Camillus was appointed dictator and lead the Romans to victory.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/09-_A_Trojan_War.mp3\" target=\"_self\">9- A Trojan War</a></p>",
     "index": "9",
-    "audio": "9-a-trojan-war.mp3"
+    "audio": "9-a-trojan-war.mp3",
+    "order": 9
   },
   {
     "title": "Barbarians at the Gate",
     "date": "Fri Nov 14 2008 11:44:00 GMT-0600 (CST)",
     "body": "<p>Soon after the war with Veii, Rome was sacked by invading Gauls. The event traumatized the Romans and left their city in ruins. It would be the last time a foreign army breached the walls until the fall of the empire 850 years later.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/10-_Barbarians_at_the_Gates.mp3\" target=\"_self\">10- Barbarians at the Gate</a></p>",
     "index": "10",
-    "audio": "10-barbarians-at-the-gate.mp3"
+    "audio": "10-barbarians-at-the-gate.mp3",
+    "order": 10
   },
   {
     "title": "The Morning After",
     "date": "Sat Nov 15 2008 11:42:00 GMT-0600 (CST)",
     "body": "<p>In the decades after the Gauls abandoned Rome to its fate, the Romans were forced to battle both external threats and internal sedition. The Plebes, saddled with debt from the reconstruction, forced through reforms in 367 BC that finally gave them access to the most powerful office of state: the Consulship.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/11-_The_Morning_After.mp3\" target=\"_self\">11- The Morning After</a></p>",
     "index": "11",
-    "audio": "11-the-morning-after.mp3"
+    "audio": "11-the-morning-after.mp3",
+    "order": 11
   },
   {
     "title": "The First Samnite War",
     "date": "Sun Nov 16 2008 11:42:00 GMT-0600 (CST)",
     "body": "<p>From 343-341 BC Rome fought a brief war against the Samnites, a powerful hill tribe who would plague the Romans for the rest of the century. The Romans won an inconclusive victory, but the war was only the opening salvo in a long running struggle between the two peoples.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/12-_The_First_Samnite_War.mp3\" target=\"_self\">12- The First Samnite War</a></p>",
     "index": "12",
-    "audio": "12-the-first-samnite-war.mp3"
+    "audio": "12-the-first-samnite-war.mp3",
+    "order": 12
   },
   {
     "title": "The Latin War",
     "date": "Mon Nov 17 2008 11:40:00 GMT-0600 (CST)",
     "body": "<p>The Romans fought a final war against their Latin neighbors from 340-338 BC. The Romans won a decisive victory and the Latin League was abolished once and for all.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/13-_The_Latin_War.mp3\" target=\"_self\">13- The Latin War</a></p>",
     "index": "13",
-    "audio": "13-the-latin-war.mp3"
+    "audio": "13-the-latin-war.mp3",
+    "order": 13
   },
   {
     "title": "A Phalanx With Joints",
     "date": "Tue Nov 18 2008 11:39:00 GMT-0600 (CST)",
     "body": "<p>For hundreds of years the Roman Army used the Greek phalanx, but during the Samnite Wars they were forced to develop a new distinctly Roman system.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/14a__A_Phalanx_With_Joints.mp3\" target=\"_self\">14a- A Phalanx With Joints</a></p>",
     "index": "14a",
-    "audio": "14a-a-phalanx-with-joints.mp3"
+    "audio": "14a-a-phalanx-with-joints.mp3",
+    "order": 14
   },
   {
     "title": "A Phalanx With Joints",
     "date": "Wed Nov 19 2008 11:37:00 GMT-0600 (CST)",
     "body": "<p>The Roman army abandoned the Greek phalanx in favor of a new system based on a three line deployment organized by age and experience.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/14b-_A_Phalanx_With_Joints.mp3\" target=\"_self\">14b- A Phalanx With Joints</a></p>",
     "index": "14b",
-    "audio": "14b-a-phalanx-with-joints.mp3"
+    "audio": "14b-a-phalanx-with-joints.mp3",
+    "order": 15
   },
   {
     "title": "The Second Samnite War",
     "date": "Thu Nov 20 2008 11:36:00 GMT-0600 (CST)",
     "body": "<p>After a decade of peace, the Romans and Samnites returned to war. The early years of fighting went well for Rome, but in 321 BC they were handed a humiliating defeat at Caudine Forks.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/15A-_The_Second_Samnite_War.mp3\" target=\"_self\">15a- The Second Samnite War</a></p>",
     "index": "15a",
-    "audio": "15a-the-second-samnite-war.mp3"
+    "audio": "15a-the-second-samnite-war.mp3",
+    "order": 16
   },
   {
     "title": "The Second Samnite War",
     "date": "Fri Nov 21 2008 11:35:00 GMT-0600 (CST)",
     "body": "<p>After a five year break, hostilities resumed between the Romans and Samnites. Despite early setbacks, Rome eventually emerged victorious in 304 BC. During these years a controversial politician, Appius Claudius, initiated a series of ambitious public works projects that advanced Roman civilization.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/15B-_The_Second_Samnite_War.mp3\" target=\"_self\">15b- The Second Samnite War</a></p>",
     "index": "15b",
-    "audio": "15b-the-second-samnite-war.mp3"
+    "audio": "15b-the-second-samnite-war.mp3",
+    "order": 17
   },
   {
     "title": "The Third Samnite War",
     "date": "Sat Nov 22 2008 11:34:00 GMT-0600 (CST)",
     "body": "<p>Rome battled a combined army of Samnites, Etruscans, Umbrians and Gauls for control of Italy. At Sentinum, the two sides fought the largest battle in Italian history up to that point.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/16-_The_Third_Samnite_War.mp3\" target=\"_self\">16- The Third Samnite War</a></p>",
     "index": "16",
-    "audio": "16-the-third-samnite-war.mp3"
+    "audio": "16-the-third-samnite-war.mp3",
+    "order": 18
   },
   {
     "title": "Pyrrhic Victories",
     "date": "Sun Nov 23 2008 11:33:00 GMT-0600 (CST)",
     "body": "<p>The Greek cities of southern Italy called on King Pyrrhus of Epirus to protect them from Roman encroachment. Though Pyrrhus was undefeated in battle, his victories were so costly that he was forced to withdraw from Italy in 275 BC, leaving Rome in control of Magna Graecia.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/17-_Pyrrhic_Victories.mp3\" target=\"_self\">17- Pyrrhic Victories&#0160;</a></p>",
     "index": "17",
-    "audio": "17-pyrrhic-victories.mp3"
+    "audio": "17-pyrrhic-victories.mp3",
+    "order": 19
   },
   {
     "title": "A History of Rome Christmas",
     "date": "Mon Nov 24 2008 11:31:00 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/18-_A_History_of_Rome_Christmas.mp3\" target=\"_self\">18- A History of Rome Christmas</a></p>",
     "index": "18",
-    "audio": "18-a-history-of-rome-christmas.mp3"
+    "audio": "18-a-history-of-rome-christmas.mp3",
+    "order": 20
   },
   {
     "title": "Prelude to the First Punic War",
     "date": "Tue Nov 25 2008 11:30:00 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/19-_Prelude_to_The_First_Punic_War.mp3\" target=\"_self\">19- Prelude to the First Punic War</a></p>",
     "index": "19",
-    "audio": "19-prelude-to-the-first-punic-war.mp3"
+    "audio": "19-prelude-to-the-first-punic-war.mp3",
+    "order": 21
   },
   {
     "title": "The First Punic War",
     "date": "Wed Nov 26 2008 11:29:00 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/20a-_The_First_Punic_War.mp3\" target=\"_self\">20a- The First Punic War</a></p>",
     "index": "20a",
-    "audio": "20a-the-first-punic-war.mp3"
+    "audio": "20a-the-first-punic-war.mp3",
+    "order": 22
   },
   {
     "title": "The First Punic War",
     "date": "Thu Nov 27 2008 11:24:00 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/20b_The_First_Punic_War.mp3\" target=\"_self\">20b- The First Punic War</a></p>",
     "index": "20b",
-    "audio": "20b-the-first-punic-war.mp3"
+    "audio": "20b-the-first-punic-war.mp3",
+    "order": 23
   },
   {
     "title": "Interbellum",
     "date": "Fri Nov 28 2008 22:43:05 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/21-_Interbellum.mp3\" target=\"_self\">21- Interbellum</a></p>",
     "index": "21",
-    "audio": "21-interbellum.mp3"
+    "audio": "21-interbellum.mp3",
+    "order": 24
   },
   {
     "title": "Prelude to the Second Punic War",
     "date": "Fri Nov 28 2008 22:44:22 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/22__Prelude_to_the_Second_Punic_War.mp3\" target=\"_self\">22- Prelude to the Second Punic War</a></p>",
     "index": "22",
-    "audio": "22-prelude-to-the-second-punic-war.mp3"
+    "audio": "22-prelude-to-the-second-punic-war.mp3",
+    "order": 25
   },
   {
     "title": "The War With Hannibal",
     "date": "Fri Nov 28 2008 22:45:42 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/23a-_The_War_with_Hannibal.mp3\" target=\"_self\">23a- The War With Hannibal </a></p>",
     "index": "23a",
-    "audio": "23a-the-war-with-hannibal.mp3"
+    "audio": "23a-the-war-with-hannibal.mp3",
+    "order": 26
   },
   {
     "title": "The War With Hannibal",
     "date": "Fri Nov 28 2008 22:47:28 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/23b-_The_War_With_Hannibal.mp3\" target=\"_self\">23b- The War With Hannibal </a></p>",
     "index": "23b",
-    "audio": "23b-the-war-with-hannibal.mp3"
+    "audio": "23b-the-war-with-hannibal.mp3",
+    "order": 27
   },
   {
     "title": "The War With Hannibal",
     "date": "Fri Nov 28 2008 22:49:42 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/23c-_The_War_With_Hannibal.mp3\" target=\"_self\">23c- The War With Hannibal</a></p>",
     "index": "23c",
-    "audio": "23c-the-war-with-hannibal.mp3"
+    "audio": "23c-the-war-with-hannibal.mp3",
+    "order": 28
   },
   {
     "title": "The War With Hannibal",
     "date": "Fri Nov 28 2008 22:51:09 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/23d-_The_War_With_Hannibal.mp3\" target=\"_self\">23d- The War With Hannibal</a></p>",
     "index": "23d",
-    "audio": "23d-the-war-with-hannibal.mp3"
+    "audio": "23d-the-war-with-hannibal.mp3",
+    "order": 29
   },
   {
     "title": "The War With Hannibal",
     "date": "Fri Nov 28 2008 22:53:08 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/23e-_The_War_With_Hannibal.mp3\" target=\"_self\">23e- The War With Hannibal</a></p>",
     "index": "23e",
-    "audio": "23e-the-war-with-hannibal.mp3"
+    "audio": "23e-the-war-with-hannibal.mp3",
+    "order": 30
   },
   {
     "title": "The Second Macedonian War",
     "date": "Fri Nov 28 2008 22:55:37 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/24-_The_Second_Macedonian_War.mp3\" target=\"_self\">24- The Second Macedonian War</a></p>",
     "index": "24",
-    "audio": "24-the-second-macedonian-war.mp3"
+    "audio": "24-the-second-macedonian-war.mp3",
+    "order": 31
   },
   {
     "title": "The Syrian War",
     "date": "Fri Nov 28 2008 22:57:32 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/25-_The_Syrian_War.mp3\" target=\"_self\">25- The Syrian War</a></p>",
     "index": "25",
-    "audio": "25-the-syrian-war.mp3"
+    "audio": "25-the-syrian-war.mp3",
+    "order": 32
   },
   {
     "title": "The Third Macedonian War",
     "date": "Fri Nov 28 2008 22:59:15 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/26-_The_Third_Macedonian_War.mp3\" target=\"_self\">26-The Third Macedonian War</a></p>",
     "index": "26",
-    "audio": "26-the-third-macedonian-war.mp3"
+    "audio": "26-the-third-macedonian-war.mp3",
+    "order": 33
   },
   {
     "title": "Mopping Up",
     "date": "Fri Nov 28 2008 23:00:34 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/27-_Mopping_Up.mp3\" target=\"_self\">27- Mopping Up</a></p>",
     "index": "27",
-    "audio": "27-mopping-up.mp3"
+    "audio": "27-mopping-up.mp3",
+    "order": 34
   },
   {
     "title": "Taking Stock",
     "date": "Fri Nov 28 2008 23:02:48 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/28-_Taking_Stock.mp3\" target=\"_self\">28- Taking Stock</a></p>",
     "index": "28",
-    "audio": "28-taking-stock.mp3"
+    "audio": "28-taking-stock.mp3",
+    "order": 35
   },
   {
     "title": "Tiberius Gracchus",
     "date": "Fri Nov 28 2008 23:04:05 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/29-_Tiberius_Gracchus.mp3\" target=\"_self\">29- Tiberius Gracchus</a></p>",
     "index": "29",
-    "audio": "29-tiberius-gracchus.mp3"
+    "audio": "29-tiberius-gracchus.mp3",
+    "order": 36
   },
   {
     "title": "Gaius Gracchus",
     "date": "Fri Nov 28 2008 23:05:01 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/30-_Gaius_Gracchus.mp3\" target=\"_self\">30- Gaius Gracchus</a></p>",
     "index": "30",
-    "audio": "30-gaius-gracchus.mp3"
+    "audio": "30-gaius-gracchus.mp3",
+    "order": 37
   },
   {
     "title": "Marius",
     "date": "Fri Nov 28 2008 23:06:06 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/31a-_Marius.mp3\" target=\"_self\">31a- Marius</a></p>",
     "index": "31a",
-    "audio": "31a-marius.mp3"
+    "audio": "31a-marius.mp3",
+    "order": 38
   },
   {
     "title": "Marius",
     "date": "Fri Nov 28 2008 23:07:27 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/31b-_Marius.mp3\" target=\"_self\">31b- Marius</a></p>",
     "index": "31b",
-    "audio": "31b-marius.mp3"
+    "audio": "31b-marius.mp3",
+    "order": 39
   },
   {
     "title": "The Social War",
     "date": "Fri Nov 28 2008 23:08:32 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/32-_The_Social_War.mp3\" target=\"_self\">32- The Social War</a></p>",
     "index": "32",
-    "audio": "32-the-social-war.mp3"
+    "audio": "32-the-social-war.mp3",
+    "order": 40
   },
   {
     "title": "Marius and Sulla",
     "date": "Fri Nov 28 2008 23:09:59 GMT-0600 (CST)",
     "body": "<p><a href=\"http://traffic.libsyn.com/historyofrome/33-_Marius_and_Sulla.mp3\" target=\"_self\">33- Marius and Sulla</a></p>",
     "index": "33",
-    "audio": "33-marius-and-sulla.mp3"
+    "audio": "33-marius-and-sulla.mp3",
+    "order": 41
   },
   {
     "title": "No Greater Friend, No Worse Enemy",
     "date": "Fri Nov 28 2008 23:12:50 GMT-0600 (CST)",
     "body": "<p>Sulla returned from the east and after winning a short Civil War was made Dictator for Life. After purging his enemies and reorganizing the consitution he inexplicably stepped down in 80 BC.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/34-_No_Greater_Friend_No_Worse_Enemy.mp3\" target=\"_self\">34- No Greater Friend, No Worse Enemy</a></p>",
     "index": "34",
-    "audio": "34-no-greater-friend-no-worse-enemy.mp3"
+    "audio": "34-no-greater-friend-no-worse-enemy.mp3",
+    "order": 42
   },
   {
     "title": "Crassus and Pompey",
     "date": "Sun Nov 30 2008 21:38:29 GMT-0600 (CST)",
     "body": "<p>After Sulla&#39;s death two men emerged as the vanguard of Rome&#39;s new political generation: Marcus Crassus who would become Rome&#39;s richest man and Pompey the Great, who would become Rome&#39;s greatest general. In a few years these two men would join forces with Julius Caesar to form the first Triumvirate.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/35-_Crassus_and_Pompey.mp3\" target=\"_self\">35- Crassus and Pompey</a></p>",
     "index": "35",
-    "audio": "35-crassus-and-pompey.mp3"
+    "audio": "35-crassus-and-pompey.mp3",
+    "order": 43
   },
   {
     "title": "I Am Spartacus!",
     "date": "Sun Dec 07 2008 23:22:47 GMT-0600 (CST)",
     "body": "<p>From 73-71 BC a gladiator named Spartacus led a slave revolt in southern Italy. Despite defeating the Romans on numerous occasions, the slave army was eventually defeated by Marcus Crassus (with an unsolicited assist from Pompey).</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/36-_I_Am_Spartacus.mp3\" target=\"_self\">36- I Am Spartacus</a></p>",
     "index": "36",
-    "audio": "36-i-am-spartacus.mp3"
+    "audio": "36-i-am-spartacus.mp3",
+    "order": 44
   },
   {
     "title": "Go East Young Man",
     "date": "Sun Dec 14 2008 23:04:59 GMT-0600 (CST)",
     "body": "<p>After clearing the Mediterranean of pirates in 67 BC Pompey was put in charge of the war with Mithridates. He promptly conquered his way to Jerusalem.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/37-_Go_East_Young_Man.mp3\" target=\"_self\">37- Go East Young Man</a></p>",
     "index": "37",
-    "audio": "37-go-east-young-man.mp3"
+    "audio": "37-go-east-young-man.mp3",
+    "order": 45
   },
   {
     "title": "The Catiline Conspiracy",
     "date": "Sun Dec 21 2008 22:53:50 GMT-0600 (CST)",
     "body": "<p>In 63 BC an embittered two-time consular candidate named Catiline conspired to overthrow the Roman government. He was stopped by Rome&#39;s greatest politician and orator, Marcus Tullius Cicero.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/38-_The_Catiline_Conspiracy-_The_History_of_Rome.mp3\" target=\"_self\">38- The Catiline Conspiracy</a></p>",
     "index": "38",
-    "audio": "38-the-catiline-conspiracy.mp3"
+    "audio": "38-the-catiline-conspiracy.mp3",
+    "order": 46
   },
   {
     "title": "The Young Julius Caesar Chronicles: The History of Rome",
     "date": "Sun Jan 04 2009 21:04:09 GMT-0600 (CST)",
     "body": "<p>Julius Caesar had an eventful career on his way up the Cursus Honorum. He won the Civic Crown in Asia, was captured by pirates on his way to Rhodes, and served as Governor of Hispania Ulterior.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/39-_The_Young_Julius_Caesar_Chronicles.mp3\" target=\"_self\">39- The Young Julius Caesar Chronicles</a></p>",
     "index": "39",
-    "audio": "39-the-young-julius-caesar-chronicles-the-history-of-rome.mp3"
+    "audio": "39-the-young-julius-caesar-chronicles-the-history-of-rome.mp3",
+    "order": 47
   },
   {
     "title": "In the Consulship of Julius and Caesar",
     "date": "Sun Jan 11 2009 20:06:24 GMT-0600 (CST)",
     "body": "<p>In 59 BC Julius Caesar served a controversial year in the consulship. He pressed for land and administrative reforms the conservative Senate opposed.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/40-_In_the_Consulship_of_Julius_and_Caesar.mp3\" target=\"_self\">40- In the Consulship of Julius and Caesar</a></p>",
     "index": "40",
-    "audio": "40-in-the-consulship-of-julius-and-caesar.mp3"
+    "audio": "40-in-the-consulship-of-julius-and-caesar.mp3",
+    "order": 48
   },
   {
     "title": "The Gallic Wars",
     "date": "Sun Jan 18 2009 21:40:55 GMT-0600 (CST)",
     "body": "<p>After beginning his proconsulship of Cisalpine Gaul in 58 BC Caesar was asked to halt the advance of a migrating Celtic tribe. He managed to turn them around, but was immediately called to face an even deadlier threat at the banks of the Rhine River.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/41a-_The_Gallic_Wars.mp3\" target=\"_self\">41a- The Gallic Wars</a></p>",
     "index": "41a",
-    "audio": "41a-the-gallic-wars.mp3"
+    "audio": "41a-the-gallic-wars.mp3",
+    "order": 49
   },
   {
     "title": "The Gallic Wars",
     "date": "Sun Jan 25 2009 22:20:35 GMT-0600 (CST)",
     "body": "<p>From 57-52 BC Caesar slowly conquered Gaul. Along the way he crossed into Germania twice and led the first Roman expedition to Britain. Finally, the last Gallic army was forced to surrender at Alesia.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/41b-_The_Gallic_Wars.mp3\" target=\"_self\">41b- The Gallic Wars</a></p>",
     "index": "41b",
-    "audio": "41b-the-gallic-wars.mp3"
+    "audio": "41b-the-gallic-wars.mp3",
+    "order": 50
   },
   {
     "title": "Meanwhile, Back in Rome",
     "date": "Sun Feb 01 2009 15:48:51 GMT-0600 (CST)",
     "body": "<p>While Caesar was fighting the Gallic Wars, events in Rome and beyond exacerbated the political tensions that would eventually lead to Civil War.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/42-_Meanwhile_Back_in_Rome.mp3\" target=\"_self\">42- Meanwhile, Back in Rome</a></p>",
     "index": "42",
-    "audio": "42-meanwhile-back-in-rome.mp3"
+    "audio": "42-meanwhile-back-in-rome.mp3",
+    "order": 51
   },
   {
     "title": "Insert Well Known Idiom Here",
     "date": "Sun Feb 08 2009 23:35:37 GMT-0600 (CST)",
     "body": "<p>In 49 BC Caesar led a single legion across the Rubicon River, sparking a civil war that would lead to the death of the Roman Republic.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/43-_Insert_Well_Know_Idiom_Here.mp3\" target=\"_self\">43- Insert Well Know Idiom Here</a></p>",
     "index": "43",
-    "audio": "43-insert-well-known-idiom-here.mp3"
+    "audio": "43-insert-well-known-idiom-here.mp3",
+    "order": 52
   },
   {
     "title": "Caesar Triumphant: The History of Rome",
     "date": "Sun Feb 22 2009 21:44:01 GMT-0600 (CST)",
     "body": "<p>Following a setback at Dyrrachium, Caesar decisively won the Battle of Pharsalus in 48 BC. After defeating Pompey, Caesar sailed for Alexandria, where settled a civil war by placing Cleopatra on the throne.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/44-_Caesar_Triumphant.mp3\" target=\"_self\">44- Caesar Triumphant</a></p>",
     "index": "44",
-    "audio": "44-caesar-triumphant-the-history-of-rome.mp3"
+    "audio": "44-caesar-triumphant-the-history-of-rome.mp3",
+    "order": 53
   },
   {
     "title": "The End Of The War",
     "date": "Sun Mar 01 2009 19:20:54 GMT-0600 (CST)",
     "body": "<p>Caesar took the overland route back from Egypt back to Rome and along the way pacified what little resistance he came across. After a brief stay in Italy he sailed for North Africa where he defeated the regrouped Republican army. Having emerged from the Civil War triumphant he returned to Rome and began his ambitious reform programs.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/45-_The_End_Of_The_War.mp3\" target=\"_self\">45- The End of the War</a></p>",
     "index": "45",
-    "audio": "45-the-end-of-the-war.mp3"
+    "audio": "45-the-end-of-the-war.mp3",
+    "order": 54
   },
   {
     "title": "Sic Semper Tyrannis: The History of Rome",
     "date": "Sun Mar 08 2009 23:24:29 GMT-0500 (CDT)",
     "body": "<p>In the last months of his life, rumors swirled about Caesar&#39;s monarchical ambitions. On the Ides of March 44 BC, a group of Senators put the issue to rest by assassinating Caesar during a session of the Senate.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/46-_Sic_Semper_Tyrannis.mp3\" target=\"_self\">46- Sic Semper Tyrannis</a></p>",
     "index": "46",
-    "audio": "46-sic-semper-tyrannis-the-history-of-rome.mp3"
+    "audio": "46-sic-semper-tyrannis-the-history-of-rome.mp3",
+    "order": 55
   },
   {
     "title": "Octavius-Octavian: The History of Rome",
     "date": "Sun Mar 15 2009 23:10:36 GMT-0500 (CDT)",
     "body": "<p>Caesar posthumously adopted his great nephew Gaius Octavius and the 19-year-old was thrust into the center of Roman politics. In the months following the assassination Octavian and Mark Antony will vie for the support of the legions.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/47-_Octavius-Octavian.mp3\" target=\"_self\">47- Octavius-Octavian</a></p>",
     "index": "47",
-    "audio": "47-octavius-octavian-the-history-of-rome.mp3"
+    "audio": "47-octavius-octavian-the-history-of-rome.mp3",
+    "order": 56
   },
   {
     "title": "The Second Triumvirate",
     "date": "Sun Mar 22 2009 20:56:44 GMT-0500 (CDT)",
     "body": "<p>In 43 BC Marc Antony, Octavian and Marcus Lepidus formed the Second Triumvirate. After initiating proscriptions to raise funds and purge their enemies, the Triumvirs headed east, where they defeated Brutus and Cassius at Philippi.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/48-_The_Second_Triumvirate.mp3\" target=\"_self\">48- The Second Triumvirate</a></p>",
     "index": "48",
-    "audio": "48-the-second-triumvirate.mp3"
+    "audio": "48-the-second-triumvirate.mp3",
+    "order": 57
   },
   {
     "title": "Apollo and Dionysus: The History of Rome",
     "date": "Sun Apr 05 2009 22:46:40 GMT-0500 (CDT)",
     "body": "<p>After winning the Battle of Philippi Antony and Octavian divided the empire into two halves. Antony took control of the east where he formed an alliance with Cleopatra, while Octavian commanded the west.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/49-Apollo_and_Dionysus.mp3\" target=\"_self\">49- Apollo and Dionysus</a></p>",
     "index": "49",
-    "audio": "49-apollo-and-dionysus-the-history-of-rome.mp3"
+    "audio": "49-apollo-and-dionysus-the-history-of-rome.mp3",
+    "order": 58
   },
   {
     "title": "The Donations of Alexandria: The History of Rome",
     "date": "Sun Apr 12 2009 20:35:20 GMT-0500 (CDT)",
     "body": "<p>After Antony failed to conquer Parthia, the Triumvirate partnership broke down, leading to a declaration of war.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/50-_The_Donations_of_Alexandria.mp3\" target=\"_self\">50- The Donations of Alexandria</a></p>",
     "index": "50",
-    "audio": "50-the-donations-of-alexandria-the-history-of-rome.mp3"
+    "audio": "50-the-donations-of-alexandria-the-history-of-rome.mp3",
+    "order": 59
   },
   {
     "title": "Actium: The History of Rome",
     "date": "Sun Apr 19 2009 23:40:50 GMT-0500 (CDT)",
     "body": "<p>On Sept 2, 31 BC Octavian defeated Antony at the Battle of Actium. Antony and Cleopatra fled back to Alexandria where they committed suicide the next year, following Octavian&#39;s invasion of Egypt.<br /><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115702de5ff970b-pi\" style=\"display: inline;\"><img alt=\"Battle_of_Actium\" border=\"0\" class=\"at-xid-6a01053629a711970c0115702de5ff970b image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115702de5ff970b-800wi\" title=\"Battle_of_Actium\" /></a> <br /><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115702de62b970b-pi\" style=\"display: inline;\"><img alt=\"Battle_of_Actium1\" border=\"0\" class=\"at-xid-6a01053629a711970c0115702de62b970b image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115702de62b970b-800wi\" title=\"Battle_of_Actium1\" /></a> <br /><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156f373ba1970c-pi\" style=\"display: inline;\"><img alt=\"Battle_of_Actium2\" border=\"0\" class=\"at-xid-6a01053629a711970c01156f373ba1970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156f373ba1970c-800wi\" title=\"Battle_of_Actium2\" /></a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/51-_Actium.mp3\" target=\"_self\">51- Actium</a></p>",
     "index": "51",
-    "audio": "51-actium-the-history-of-rome.mp3"
+    "audio": "51-actium-the-history-of-rome.mp3",
+    "order": 60
   },
   {
     "title": "Caesar Augustus: The History of Rome",
     "date": "Sun Apr 26 2009 21:58:55 GMT-0500 (CDT)",
     "body": "<p>The Senate bestowed upon Octavian the title <em>Caesar Augustus</em> during the constitutional settlement of 27 BC. Four years later Augustus and the Senate altered their power sharing agreement.</p>\r\n<p><img alt=\"\" src=\"file:///Users/michaelwilliamduncan/Desktop/THOR%20Maps/Constitutional%20/Constitutional_27BC.jpg\" /><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156f5ec79d970c-pi\" style=\"display: inline;\"><img alt=\"Constitutional_27BC\" border=\"0\" class=\"at-xid-6a01053629a711970c01156f5ec79d970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156f5ec79d970c-800wi\" title=\"Constitutional_27BC\" /></a><a href=\"http://traffic.libsyn.com/historyofrome/52-_Caesar_Augustus.mp3\" target=\"_self\">52- Caesar Augustus</a></p>",
     "index": "52",
-    "audio": "52-caesar-augustus-the-history-of-rome.mp3"
+    "audio": "52-caesar-augustus-the-history-of-rome.mp3",
+    "order": 61
   },
   {
     "title": "Reigning Supreme: The History of Rome",
     "date": "Mon May 04 2009 00:20:26 GMT-0500 (CDT)",
     "body": "<p>After attaining power, Augustus set about reforming the Empire.</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115706b63a6970b-pi\" style=\"display: inline;\"><img alt=\"Danube_red\" border=\"0\" class=\"at-xid-6a01053629a711970c0115706b63a6970b image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115706b63a6970b-800wi\" title=\"Danube_red\" /></a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/53-_Reigning_Supreme.mp3\" target=\"_self\">53- Reigning Supreme</a></p>",
     "index": "53",
-    "audio": "53-reigning-supreme-the-history-of-rome.mp3"
+    "audio": "53-reigning-supreme-the-history-of-rome.mp3",
+    "order": 62
   },
   {
     "title": "All in the Family: The History of Rome",
     "date": "Sun May 10 2009 23:48:17 GMT-0500 (CDT)",
     "body": "<p>Augustus promoted his steps sons Tiberius and Drusus to high office long before they were technically eligible. He hoped they would share power with him until Gaius and Lucius Caesar came of age, but Drusus died young and Tiberius went into self-imposed exile.</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115707db57d970b-pi\" style=\"display: inline;\"><img alt=\"Danube_provinces\" border=\"0\" class=\"at-xid-6a01053629a711970c0115707db57d970b image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115707db57d970b-800wi\" title=\"Danube_provinces\" /></a></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115707db65a970b-pi\" style=\"display: inline;\"><img alt=\"Family_tree\" border=\"0\" class=\"at-xid-6a01053629a711970c0115707db65a970b image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0115707db65a970b-800wi\" title=\"Family_tree\" /></a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/54-_All_In_The_Family.mp3\" target=\"_self\">54- All in the Family</a></p>",
     "index": "54",
-    "audio": "54-all-in-the-family-the-history-of-rome.mp3"
+    "audio": "54-all-in-the-family-the-history-of-rome.mp3",
+    "order": 63
   },
   {
     "title": "Teutoburg Nightmares: The History of Rome",
     "date": "Mon May 18 2009 00:21:17 GMT-0500 (CDT)",
     "body": "<p>The Julio-Claudian family was rife with conflict, but nothing compared to the battle fought against the Germans in the Teutoburg Forest.</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156f9a5bda970c-pi\" style=\"display: inline;\"><img alt=\"Teutoburg\" border=\"0\" class=\"at-xid-6a01053629a711970c01156f9a5bda970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156f9a5bda970c-800wi\" title=\"Teutoburg\" /></a></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd237fd970c-pi\" style=\"display: inline;\"><img alt=\"Romandoctors\" border=\"0\" class=\"at-xid-6a01053629a711970c01156fd237fd970c \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd237fd970c-800wi\" title=\"Romandoctors\" /></a>&#0160;</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011570c7185d970b-pi\" style=\"display: inline;\"><img alt=\"Romanlineup\" border=\"0\" class=\"at-xid-6a01053629a711970c011570c7185d970b \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011570c7185d970b-800wi\" title=\"Romanlineup\" /></a></p>\r\n<p><a href=\"http://blip.tv/file/get/MikeDuncan-55TeutoburgNightmares896.mp3\"></a><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd236e6970c-pi\" style=\"display: inline;\"><img alt=\"IMG_0828\" border=\"0\" class=\"at-xid-6a01053629a711970c01156fd236e6970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd236e6970c-800wi\" title=\"IMG_0828\" /></a></p>\r\n<p><a href=\"http://blip.tv/file/get/MikeDuncan-55TeutoburgNightmares896.mp3\"></a><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd23702970c-pi\" style=\"display: inline;\"><img alt=\"IMG_0833\" border=\"0\" class=\"at-xid-6a01053629a711970c01156fd23702970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd23702970c-800wi\" title=\"IMG_0833\" /></a></p>\r\n<p><span style=\"text-decoration: underline;\"><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011570c71749970b-pi\" style=\"display: inline;\"><img alt=\"Battleaftermath\" border=\"0\" class=\"at-xid-6a01053629a711970c011570c71749970b \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011570c71749970b-800wi\" title=\"Battleaftermath\" /></a> </span>&#0160;</p>\r\n<p>Pics by Carolyn. Thanks Carolyn!</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/55-_Teutoburg_Nightmares.mp3\" target=\"_self\">55- Teutoburg Nightmares</a></p>",
     "index": "55",
-    "audio": "55-teutoburg-nightmares-the-history-of-rome.mp3"
+    "audio": "55-teutoburg-nightmares-the-history-of-rome.mp3",
+    "order": 64
   },
   {
     "title": "The King is Dead, Long Live the King",
     "date": "Sun May 31 2009 20:26:06 GMT-0500 (CDT)",
     "body": "<p>After putting his affairs in order and ensuring that the transition of power to Tiberius would be smooth, Augustus died on August 17, 14 AD.</p>\r\n<p>Read <a href=\"http://classics.mit.edu/Augustus/deeds.html\">The Deeds of the Divine Augustus</a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/56-_The_King_is_Dead.mp3\" target=\"_self\">56- The King is Dead, Long Live the King</a></p>",
     "index": "56",
-    "audio": "56-the-king-is-dead-long-live-the-king.mp3"
+    "audio": "56-the-king-is-dead-long-live-the-king.mp3",
+    "order": 65
   },
   {
     "title": "Germanicus: The History of Rome",
     "date": "Fri Jun 05 2009 23:08:55 GMT-0500 (CDT)",
     "body": "<p>The early years of Tiberius&#39;s reign were defined by his growing jealousy of his nephew/adopted son Germanicus. After winning victories on the far side of the Rhine, Germanicus was sent east, where in 19 AD he died under mysterious circumstances.</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011570c71258970b-pi\" style=\"display: inline;\"><img alt=\"IMG_1692\" border=\"0\" class=\"at-xid-6a01053629a711970c011570c71258970b image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011570c71258970b-800wi\" title=\"IMG_1692\" /></a></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd233da970c-pi\" style=\"display: inline;\"><img alt=\"IMG_1693\" border=\"0\" class=\"at-xid-6a01053629a711970c01156fd233da970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01156fd233da970c-800wi\" title=\"IMG_1693\" /></a></p>\r\n<p>Pics from the British Museum by Justin. Thanks Justin!</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/57-_Germanicus.mp3\" target=\"_self\">57- Germanicus</a></p>",
     "index": "57",
-    "audio": "57-germanicus-the-history-of-rome.mp3"
+    "audio": "57-germanicus-the-history-of-rome.mp3",
+    "order": 66
   },
   {
     "title": "Partner of my Labors: The History of Rome",
     "date": "Sun Jun 14 2009 21:36:03 GMT-0500 (CDT)",
     "body": "<p>After the death of Tiberius&#39;s son Drusus, Praetorian Prefect Lucius Sejanus&#39;s influence grew exponentially. Sejanus was the defacto ruler of Rome from 26 AD until his fall from power 5 years later. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/58-_Partner_of_my_Labors.mp3\">58- Partner of my Labors</a></p>",
     "index": "58",
-    "audio": "58-partner-of-my-labors-the-history-of-rome.mp3"
+    "audio": "58-partner-of-my-labors-the-history-of-rome.mp3",
+    "order": 67
   },
   {
     "title": "To the Tiber with Tiberius: The History of Rome",
     "date": "Sun Jun 21 2009 22:49:27 GMT-0500 (CDT)",
     "body": "<p>Tiberius&#39;s final years were consumed with treason trials and private licentiousness. After he died in 37 AD, the infamous Caligula ascended to the throne.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/59-_To_the_Tiber_with_Tiberius.mp3\">59- To the Tiber with Tiberius</a> </p>",
     "index": "59",
-    "audio": "59-to-the-tiber-with-tiberius-the-history-of-rome.mp3"
+    "audio": "59-to-the-tiber-with-tiberius-the-history-of-rome.mp3",
+    "order": 68
   },
   {
     "title": "No Better Slave, No Worse Master: The History of Rome",
     "date": "Sun Jun 28 2009 23:33:49 GMT-0500 (CDT)",
     "body": "<p>Caligula was insane. Luckily for the Romans, he wielded absolute power. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/60-_No_Worse_Master.mp3\">60- No Better Slave, No Worse Master</a></p>",
     "index": "60",
-    "audio": "60-no-better-slave-no-worse-master-the-history-of-rome.mp3"
+    "audio": "60-no-better-slave-no-worse-master-the-history-of-rome.mp3",
+    "order": 69
   },
   {
     "title": "What, me Claudius?",
     "date": "Mon Jul 06 2009 00:18:31 GMT-0500 (CDT)",
     "body": "<p>Claudius became Emperor after the assassination of Caligula in 41 AD. Far from a bumbling fool, Claudius turned out to be capable and dedicated ruler.</p><p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011571ce980e970b-pi\" style=\"display: inline;\"><img alt=\"Britain\" border=\"0\" class=\"at-xid-6a01053629a711970c011571ce980e970b image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c011571ce980e970b-800wi\" title=\"Britain\" /></a> </p><p><a href=\"http://traffic.libsyn.com/historyofrome/61-_What_me_Claudius.mp3\">61- What, me Claudius?</a></p>",
     "index": "61",
-    "audio": "61-what-me-claudius.mp3"
+    "audio": "61-what-me-claudius.mp3",
+    "order": 70
   },
   {
     "title": "Take My Wife...Please: The History of Rome",
     "date": "Mon Jul 13 2009 00:10:52 GMT-0500 (CDT)",
     "body": "<p>Though Claudius had great success in his public life, his private life was a different story. Each of his marriages ended in either divorce or execution. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/62-Take_My_Wife...Please.mp3\">62- Take My Wife...Please</a></p>",
     "index": "62",
-    "audio": "62-take-my-wifeplease-the-history-of-rome.mp3"
+    "audio": "62-take-my-wifeplease-the-history-of-rome.mp3",
+    "order": 71
   },
   {
     "title": "A Farewell to Claudius",
     "date": "Sun Jul 26 2009 23:43:22 GMT-0500 (CDT)",
     "body": "<p>Claudius turned out to be one of the more successful Emperors in Roman history, but unfortunately in 54 AD he was assassinated to make way for one of the worst.</p><p><span style=\"text-decoration: underline;\"><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01157239cffe970b-pi\" style=\"display: inline;\"><img alt=\"Claudian Annexations\" border=\"0\" class=\"at-xid-6a01053629a711970c01157239cffe970b image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01157239cffe970b-800wi\" title=\"Claudian Annexations\" /></a> </span>&#0160;</p><p><a href=\"http://traffic.libsyn.com/historyofrome/63-_A_Farewell_to_Claudius.mp3\">63- A Farewell to Claudius</a></p>",
     "index": "63",
-    "audio": "63-a-farewell-to-claudius.mp3"
+    "audio": "63-a-farewell-to-claudius.mp3",
+    "order": 72
   },
   {
     "title": "Smite My Womb: The History of Rome",
     "date": "Sun Aug 09 2009 21:47:51 GMT-0500 (CDT)",
     "body": "<p>After Nero came to power he was dominated by Agrippina. But it didn&#39;t take long before the 16-year-old Emperor got tired of his mother telling him what to do.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/64-_Smite_My_Womb.mp3\">64- Smite My Womb</a></p>",
     "index": "64",
-    "audio": "64-smite-my-womb-the-history-of-rome.mp3"
+    "audio": "64-smite-my-womb-the-history-of-rome.mp3",
+    "order": 73
   },
   {
     "title": "Burn it to the Ground: The History of Rome",
     "date": "Sun Aug 16 2009 22:52:40 GMT-0500 (CDT)",
     "body": "<p>Between 58 and 63 AD Rome dealt with a major conflict over the Kingdom of Armenia and a revolt in Britain led by the warrior Queen Boudica.</p><p><em>[Update]: You know the part where I&#39;m talking about the Romans being marched out under the yoke? Alert listener Robert caught me referencing the Battle of the Colline Gate, when I should have referenced the Battle of the Caudine Forks. Sorry about that. </em>(<em>But in my defense, they do both start with a &quot;C&quot;)</em></p><p><a href=\"http://traffic.libsyn.com/historyofrome/65-_Burn_it_to_the_ground.mp3\">65- Burn it to the Ground</a></p>",
     "index": "65",
-    "audio": "65-burn-it-to-the-ground-the-history-of-rome.mp3"
+    "audio": "65-burn-it-to-the-ground-the-history-of-rome.mp3",
+    "order": 74
   },
   {
     "title": "666: The History of Rome",
     "date": "Sun Aug 23 2009 22:01:41 GMT-0500 (CDT)",
     "body": "<p>Nero&#39;s popularity with the people began to wane in the early 60s AD. Things got so bad that after the Great Fire of Rome swept through the city, many held Nero responsible.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/66-_666.mp3\">66- 666</a></p>",
     "index": "66",
-    "audio": "66-666-the-history-of-rome.mp3"
+    "audio": "66-666-the-history-of-rome.mp3",
+    "order": 75
   },
   {
     "title": "What an Artist the World is Losing: The History of Rome",
     "date": "Sun Aug 30 2009 22:46:27 GMT-0500 (CDT)",
     "body": "<p>In 66 AD the Great Revolt broke out in Judaea, leading Nero to appoint Vespasian to crush the uprising. But the Emperor did not live to see the end of the conflict- in 68 AD he committed suicide after a palace coup.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/67-_What_an_artist_the_world_is_losing.mp3\">67- What an Artist the World is Losing</a></p>",
     "index": "67",
-    "audio": "67-what-an-artist-the-world-is-losing-the-history-of-rome.mp3"
+    "audio": "67-what-an-artist-the-world-is-losing-the-history-of-rome.mp3",
+    "order": 76
   },
   {
     "title": "Three Emperors: The History of Rome",
     "date": "Sun Sep 06 2009 20:22:50 GMT-0500 (CDT)",
     "body": "<p>The personalities of each of the men who vied for the throne in 69 AD had a major impact on how events unfolded. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/68-_Three_Emperors.mp3\">68- Three Emperors</a></p>",
     "index": "68",
-    "audio": "68-three-emperors-the-history-of-rome.mp3"
+    "audio": "68-three-emperors-the-history-of-rome.mp3",
+    "order": 77
   },
   {
     "title": "A History of Rome Wedding",
     "date": "Sun Sep 13 2009 23:52:30 GMT-0500 (CDT)",
     "body": "<p>Marriage was one of the key institutions of Roman culture and many of the traditions surrounding weddings persist today.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/69-_A_History_of_Rome_Wedding.mp3\">69- A History of Rome Wedding</a></p>",
     "index": "69",
-    "audio": "69-a-history-of-rome-wedding.mp3"
+    "audio": "69-a-history-of-rome-wedding.mp3",
+    "order": 78
   },
   {
     "title": "Galba and Otho",
     "date": "Sun Oct 18 2009 18:26:55 GMT-0500 (CDT)",
     "body": "<p>Galba&#39;s refusal to pay off the Praetorian Guard came back to haunt him when Otho looked for accomplices to aid in his assassination plot early in 69 AD. </p><a href=\"http://traffic.libsyn.com/historyofrome/70-_Galba_and_Otho.mp3\">70- Galba and Otho</a>",
     "index": "70",
-    "audio": "70-galba-and-otho.mp3"
+    "audio": "70-galba-and-otho.mp3",
+    "order": 79
   },
   {
     "title": "Otho and Vitellius",
     "date": "Sun Oct 25 2009 18:42:38 GMT-0500 (CDT)",
     "body": "<p>After murdering Galba, Otho ascended to the throne in January 69 AD. He immediately had to deal with Vitellius revolt and after suffering a defeat at Bedriacum in April, Otho committed suicide having served as Emperor for just three months</p><p><a href=\"http://traffic.libsyn.com/historyofrome/71-_Otho_and_Vitellius.mp3\">71- Otho and Vitellius</a></p>",
     "index": "71",
-    "audio": "71-otho-and-vitellius.mp3"
+    "audio": "71-otho-and-vitellius.mp3",
+    "order": 80
   },
   {
     "title": "Vitellius and Vespasian",
     "date": "Sun Nov 01 2009 19:10:24 GMT-0600 (CST)",
     "body": "<p>If you are interested in attending a Lars Brownworth lecture in New York, Boston, Washington DC, Chicago, San Fransisco or Austin please email Detlef Kroeze (<span style=\"text-decoration: underline;\"><a href=\"mailto:forumgallorum@gmail.com\">forumgallorum@gmail.com</a>)</span> or sign into the Forum and look for the heading &quot;Lars Brownworth Lectures&quot; (<a href=\"http://forumgallorum.freeforums.org/lars-brownworth-lectures-t120.html\">http://forumgallorum.freeforums.org/lars-brownworth-lectures-t120.html</a>)</p><p><a href=\"http://traffic.libsyn.com/historyofrome/72-_Vitellius_and_Vespasian.mp3\">72- Vitellius and Vespasian</a></p>",
     "index": "72",
-    "audio": "72-vitellius-and-vespasian.mp3"
+    "audio": "72-vitellius-and-vespasian.mp3",
+    "order": 81
   },
   {
     "title": "The Only Man Who Improved",
     "date": "Sun Nov 08 2009 18:30:25 GMT-0600 (CST)",
     "body": "<p>Vespasian served as Emperor from 69-79 AD, stabilizing the Empire after a year of Civil War. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/73-_The_Only_Man_Who_Improved.mp3\">73- The Only Man Who Improved</a></p>",
     "index": "73",
-    "audio": "73-the-only-man-who-improved.mp3"
+    "audio": "73-the-only-man-who-improved.mp3",
+    "order": 82
   },
   {
     "title": "Friends, I Have Wasted a Day",
     "date": "Sun Nov 15 2009 21:51:22 GMT-0600 (CST)",
     "body": "<p>Titus succeeded his father to the throne in 79 AD, but ruled for only two years before dying of a sudden infection in 81. Throughout the reign of the Flavians, Agricola campaigned in Britain to Romanize the island.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/74-_Friends_I_Have_Wasted_a_Day_1.mp3\">74- Friends, I Have Wasted a Day.</a></p><p></p>",
     "index": "74",
-    "audio": "74-friends-i-have-wasted-a-day.mp3"
+    "audio": "74-friends-i-have-wasted-a-day.mp3",
+    "order": 83
   },
   {
     "title": "The Forgotten Son",
     "date": "Sun Nov 22 2009 17:01:23 GMT-0600 (CST)",
     "body": "<p>Domitian had spent his life in the background, but in 81 AD he found himself Emperor and soon demonstrated that he had very strong ideas about how to wield power. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/75-_The_Forgotten_Son.mp3\">75- The Forgotten Son</a></p>",
     "index": "75",
-    "audio": "75-the-forgotten-son.mp3"
+    "audio": "75-the-forgotten-son.mp3",
+    "order": 84
   },
   {
     "title": "Mock Triumphs",
     "date": "Sun Dec 06 2009 13:27:52 GMT-0600 (CST)",
     "body": "<p>Domitian attempted to emulate Augustus, but his heavy-handed treatment of the Senate earned him many enemies. Meanwhile, his focus on frontier defense brought charges of cowardice and his treaty with the Dacians was seen as a humiliation. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/76-_Mock_Triumphs.mp3\">76- Mock Triumphs</a></p>",
     "index": "76",
-    "audio": "76-mock-triumphs.mp3"
+    "audio": "76-mock-triumphs.mp3",
+    "order": 85
   },
   {
     "title": "What Time is It?",
     "date": "Sun Dec 13 2009 13:31:55 GMT-0600 (CST)",
     "body": "<p>After Saturninus&#39;s revolt in 89 AD, Domitian&#39;s paranoia increased. In 96 AD court officials afraid for their lives conspired to have the Emperor killed.</p><p>BBC Interview: <a href=\"http://www.bbc.co.uk/podcasts/series/pods/\">http://www.bbc.co.uk/podcasts/series/pods/</a></p><p>or</p><p>iTunes&gt;Audio Podcasts&gt;Tech News&gt;BBC&gt;Pods and Blogs</p><p><a href=\"http://traffic.libsyn.com/historyofrome/77-_What_Time_is_It_.mp3\">77- What Time is It?</a></p>",
     "index": "77",
-    "audio": "77-what-time-is-it.mp3"
+    "audio": "77-what-time-is-it.mp3",
+    "order": 86
   },
   {
     "title": "Imperial Stop Gap",
     "date": "Sun Dec 20 2009 13:47:13 GMT-0600 (CST)",
     "body": "<p>Nerva&#39;s brief reign was stormy, but his choice of Trajan as heir was inspired.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/78-_Imperial_Stop_Gap.mp3\">78- Imperial Stop Gap</a></p>",
     "index": "78",
-    "audio": "78-imperial-stop-gap.mp3"
+    "audio": "78-imperial-stop-gap.mp3",
+    "order": 87
   },
   {
     "title": "The Dacian Wars",
     "date": "Sun Jan 10 2010 23:23:01 GMT-0600 (CST)",
     "body": "<p>After Trajan ascended to the throne in 98 AD he fought two wars against the Dacians, finally annexing the country in 106 AD. </p><p></p><p><a href=\"http://traffic.libsyn.com/historyofrome/79-_The_Dacian_Wars.mp3\">79- The Dacian Wars</a></p>",
     "index": "79",
-    "audio": "79-the-dacian-wars.mp3"
+    "audio": "79-the-dacian-wars.mp3",
+    "order": 88
   },
   {
     "title": "Optimus Trajan",
     "date": "Sun Jan 17 2010 12:41:57 GMT-0600 (CST)",
     "body": "<p>Trajan greatly improved the infrastructure of the Empire and finished his reign by conquering much of the Middle East. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/80-_Optimus_Trajan.mp3\">80- Optimus Trajan</a></p>",
     "index": "80",
-    "audio": "80-optimus-trajan.mp3"
+    "audio": "80-optimus-trajan.mp3",
+    "order": 89
   },
   {
     "title": "The Greekling",
     "date": "Sun Jan 24 2010 20:34:09 GMT-0600 (CST)",
     "body": "<p>Though Hadrian&#39;s career had long been guided by Trajan, when the Emperor died in 117 he still had not named Hadrian heir.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/81-_The_Greekling.mp3\">81- The Greekling</a><br /> </p>",
     "index": "81",
-    "audio": "81-the-greekling.mp3"
+    "audio": "81-the-greekling.mp3",
+    "order": 90
   },
   {
     "title": "Hadrian's Walls",
     "date": "Sun Jan 31 2010 18:41:45 GMT-0600 (CST)",
     "body": "<p>Hadrian&#39;s reign got off to a rough start following the political murders of four ex-consuls. The new Emperor would eventually settle in though and set out on his first grand tour of the Empire in 121.</p><p></p><p><a href=\"http://traffic.libsyn.com/historyofrome/82-_Hadrians_Walls.mp3\">82- Hadrian&#39;s Walls</a></p>",
     "index": "82",
-    "audio": "82-hadrians-walls.mp3"
+    "audio": "82-hadrians-walls.mp3",
+    "order": 91
   },
   {
     "title": "May His Bones Be Crushed",
     "date": "Sun Feb 07 2010 22:44:59 GMT-0600 (CST)",
     "body": "<p>Hadrian&#39;s relationship with the teenage boy Antinous raised eyebrows even in permissive Ancient Rome. His relationship with the Jews raises eyebrows even today.</p><a href=\"http://traffic.libsyn.com/historyofrome/83-_May_His_Bones_Be_Crushed_1.mp3\">83- May His Bones Be Crushed</a>",
     "index": "83",
-    "audio": "83-may-his-bones-be-crushed.mp3"
+    "audio": "83-may-his-bones-be-crushed.mp3",
+    "order": 92
   },
   {
     "title": "Longing For Death",
     "date": "Mon Feb 15 2010 00:19:27 GMT-0600 (CST)",
     "body": "<p>After returning to Italy in 134 Hadrian spent a final few miserable years trying to plan the long term future of the Imperial dynasty before dying in 138.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/84-_Longing_For_Death.mp3\">84- Longing For Death</a></p>",
     "index": "84",
-    "audio": "84-longing-for-death.mp3"
+    "audio": "84-longing-for-death.mp3",
+    "order": 93
   },
   {
     "title": "Antoninus the Dutiful",
     "date": "Sun Feb 28 2010 21:30:15 GMT-0600 (CST)",
     "body": "<p>&#0160;Antoninus&#39;s reign is often pointed to as the golden age of the Roman\r\nEmpire. In many ways the assessment is correct, though unresolved\r\nissues would come back to haunt his successors.</p><a href=\"http://traffic.libsyn.com/historyofrome/085-_Antoninus_the_Dutiful.mp3\">85- Antoninus the Dutiful</a>",
     "index": "85",
-    "audio": "85-antoninus-the-dutiful.mp3"
+    "audio": "85-antoninus-the-dutiful.mp3",
+    "order": 94
   },
   {
     "title": "Wealth and Class",
     "date": "Mon Mar 08 2010 12:36:07 GMT-0600 (CST)",
     "body": "<p>The Roman world was divided between slaves, freedmen, and free citizens\r\nof every economic class. Gross inequality though was the order of the\r\nday, with the Emperor himself controlling the lion&#39;s share of the\r\nEmpire&#39;s wealth.</p><p></p><p><a href=\"http://traffic.libsyn.com/historyofrome/086-_Wealth_and_Class.mp3\">86- Wealth and Class</a></p>",
     "index": "86",
-    "audio": "86-wealth-and-class.mp3"
+    "audio": "86-wealth-and-class.mp3",
+    "order": 95
   },
   {
     "title": "Thinking and Feeling",
     "date": "Mon Mar 15 2010 00:41:40 GMT-0500 (CDT)",
     "body": "<p>With Roman education leaving much to be desired, many citizens found enlightenment in the eastern mystery cults or Greek philosophy.</p><p></p><p><a href=\"http://traffic.libsyn.com/historyofrome/087-_Thinking_and_Feeling.mp3\">87- Thinking and Feeling</a></p>",
     "index": "87",
-    "audio": "87-thinking-and-feeling.mp3"
+    "audio": "87-thinking-and-feeling.mp3",
+    "order": 96
   },
   {
     "title": "A Day in the Life",
     "date": "Mon Mar 22 2010 00:28:53 GMT-0500 (CDT)",
     "body": "<p>Life in Rome began at dawn and lasted until sunset. Work was done in the morning while the afternoon was reserved for recreation.</p><p></p><p><a href=\"http://traffic.libsyn.com/historyofrome/088-_A_Day_in_the_Life.mp3\">88- A Day in the Life</a></p>",
     "index": "88",
-    "audio": "88-a-day-in-the-life.mp3"
+    "audio": "88-a-day-in-the-life.mp3",
+    "order": 97
   },
   {
     "title": "Provincial Matters",
     "date": "Mon Apr 05 2010 01:14:39 GMT-0500 (CDT)",
     "body": "<p>In which I talk for way too long about where the best tin deposits in the Roman Empire can be found.</p>\r\n<p>A worthwhile map<a href=\"http://en.wikipedia.org/wiki/File:Roman_Empire_125.svg\" target=\"_self\">:</a><a href=\"http://en.wikipedia.org/wiki/File:Roman_Empire_125.svg\" target=\"_self\"><a href=\"http://en.wikipedia.org/wiki/File:Roman_Empire_125.svg\" target=\"_self\"> http://en.wikipedia.org/wiki/File:Roman_Empire_125.svg </a><br /></a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/089-_Provincial_Matters.mp3\">89- Provincial Matters <br /></a></p>\r\n<p><em>Update: Outro music has been added and the episode reposted.&#0160; <br /></em></p>\r\n<p><em>Update II: Here&#39;s another worthwhile Wikipedia map of the Empire in 117 AD (supplied by Rens down in the comment thread): <a href=\"http://\">http://en.wikipedia.org/wiki/File:RomanEmpire_117.svg</a></em></p>",
     "index": "89",
-    "audio": "89-provincial-matters.mp3"
+    "audio": "89-provincial-matters.mp3",
+    "order": 98
   },
   {
     "title": "The Hundredth Episode",
     "date": "Tue Apr 13 2010 10:44:29 GMT-0500 (CDT)",
     "body": "<p>Big question-time blowout!</p><p><a href=\"http://traffic.libsyn.com/historyofrome/090-_The_Hundredth_Episode_2.mp3\">90- The Hundredth Episode</a></p>",
     "index": "90",
-    "audio": "90-the-hundredth-episode.mp3"
+    "audio": "90-the-hundredth-episode.mp3",
+    "order": 99
   },
   {
     "title": "Marcus and Lucius and the Parthians",
     "date": "Sun Apr 18 2010 21:59:03 GMT-0500 (CDT)",
     "body": "<p>Marcus Aurelius was destined to become Emperor, but his insistence that\r\nLucius Verus share the honor came as a surprise to everyone.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/091-_Marcus_and_Lucius_and_the_Parthians.mp3\">91- Marcus and Lucius and the Parthians</a></p>",
     "index": "91",
-    "audio": "91-marcus-and-lucius-and-the-parthians.mp3"
+    "audio": "91-marcus-and-lucius-and-the-parthians.mp3",
+    "order": 100
   },
   {
     "title": "The Parthian War",
     "date": "Sun Apr 25 2010 23:02:30 GMT-0500 (CDT)",
     "body": "<p>After suffering some initial setbacks, Marcus sent Lucius east to deal with a suddenly critical war with Parthia.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/092-_The_Parthian_War.mp3\">92- The Parthian War </a></p>",
     "index": "92",
-    "audio": "92-the-parthian-war.mp3"
+    "audio": "92-the-parthian-war.mp3",
+    "order": 101
   },
   {
     "title": "The Marcomannic Wars",
     "date": "Sun May 09 2010 21:18:01 GMT-0500 (CDT)",
     "body": "<p>The Romans fought a series of campaigns against a coalition of German tribes from 168-175. They were on the verge of total victory when news arrived of a rebellion in the east.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/093-_The_Marcomannic_Wars.mp3\">93- The Marcomannic Wars</a></p>",
     "index": "93",
-    "audio": "93-the-marcomannic-wars.mp3"
+    "audio": "93-the-marcomannic-wars.mp3",
+    "order": 102
   },
   {
     "title": "Revolt and Meditations",
     "date": "Sun May 16 2010 21:32:41 GMT-0500 (CDT)",
     "body": "<p>In 175 Avidius Cassius led a revolt that forced Marcus to postpone his final triumph on the Danube.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/094-_Revolt_and_Meditations.mp3\">94- Revolt and Meditations</a></p>",
     "index": "94",
-    "audio": "94-revolt-and-meditations.mp3"
+    "audio": "94-revolt-and-meditations.mp3",
+    "order": 103
   },
   {
     "title": "The Beginning of the End",
     "date": "Mon May 24 2010 00:06:00 GMT-0500 (CDT)",
     "body": "<p>Marcus elevated Commodus to the position of co-Emperor and then died a few years later while campaigning in the north.</p><p>The Column of Marcus Aurelius (click on the image for an impressive amount of detail): </p><p>\r\n<a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c013481815f97970c-pi\" style=\"display: inline;\"><img alt=\"Column_of_Marcus_Aurelius_detailed_view_03_9313px\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c013481815f97970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c013481815f97970c-800wi\" title=\"Column_of_Marcus_Aurelius_detailed_view_03_9313px\" /></a> <br /> </p><p></p><p>The column used to be topped by a statue of Marcus, but was replaced by a statue of St Paul in the late 1500s (Trajan&#39;s column was topped by St. Peter at the same time).</p><p></p><p>Marcus confronts German prisoners:</p><p>\r\n<a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c013481815456970c-pi\" style=\"display: inline;\"><img alt=\"Colmarcusaurelius\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c013481815456970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c013481815456970c-800wi\" title=\"Colmarcusaurelius\" /></a> <br /> </p><p>Marcus passing judgment from the seat of Justice:</p><p>\r\n<a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0133ee51a1d2970b-pi\" style=\"display: inline;\"><img alt=\"Praewma2\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c0133ee51a1d2970b \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0133ee51a1d2970b-800wi\" title=\"Praewma2\" /></a> <br /> </p><p>A German council of war:</p><p>\r\n<a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01348181568a970c-pi\" style=\"display: inline;\"><img alt=\"Germanische_ratssitzung\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c01348181568a970c image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01348181568a970c-800wi\" title=\"Germanische_ratssitzung\" /></a> <br /> The Rain Miracle:</p><p>\r\n<a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0133ee51a423970b-pi\" style=\"display: inline;\"><img alt=\"Rain miracle\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c0133ee51a423970b image-full \" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0133ee51a423970b-800wi\" title=\"Rain miracle\" /></a> </p><p>&#0160;<br /> </p><a href=\"http://traffic.libsyn.com/historyofrome/095-_The_Beginning_of_the_End.mp3\">95- The Beginning of the End</a>",
     "index": "95",
-    "audio": "95-the-beginning-of-the-end.mp3"
+    "audio": "95-the-beginning-of-the-end.mp3",
+    "order": 104
   },
   {
     "title": "The Most Aptly Named Emperor",
     "date": "Sun May 30 2010 21:54:49 GMT-0500 (CDT)",
     "body": "<p>b\u0000\u000bThe reign of Commodus turned on a botched assassination attempt orchestrated by his sister in 182 AD. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/096-_The_Most_Aptly_Named_Emperor.mp3\">96- The Most Aptly Named Emperor</a></p>",
     "index": "96",
-    "audio": "96-the-most-aptly-named-emperor.mp3"
+    "audio": "96-the-most-aptly-named-emperor.mp3",
+    "order": 105
   },
   {
     "title": "The Fall of Hercules",
     "date": "Sun Jun 06 2010 21:53:52 GMT-0500 (CDT)",
     "body": "<p>Commodus went off the deep end around 190 AD. He was killed two years later by his inner circle. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/097-_The_Fall_of_Hercules.mp3\">97- The Fall of Hercules</a></p>",
     "index": "97",
-    "audio": "97-the-fall-of-hercules.mp3"
+    "audio": "97-the-fall-of-hercules.mp3",
+    "order": 106
   },
   {
     "title": "Purchasing Power",
     "date": "Sun Jun 13 2010 23:01:46 GMT-0500 (CDT)",
     "body": "<p>After Commodus was assassinated, Pertinax reigned for 86 days. He was\r\nmurdered by the Praetorian Guard in March 193 and the Imperial throne\r\nwas auctioned off the highest bidder.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/098-_Purchasing_Power.mp3\">98- Purchasing Power</a></p>",
     "index": "98",
-    "audio": "98-purchasing-power.mp3"
+    "audio": "98-purchasing-power.mp3",
+    "order": 107
   },
   {
     "title": "What Evil Have I Done?",
     "date": "Sun Jun 20 2010 21:47:23 GMT-0500 (CDT)",
     "body": "<p>b\u0000\u000bAfter buying the Imperial throne, Didius Julianus only remained in power for 66 days before being ousted by Septimius Severus. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/099-_What_Evil_Have_I_Done_.mp3\">99- What Evil Have I Done?</a></p>",
     "index": "99",
-    "audio": "99-what-evil-have-i-done.mp3"
+    "audio": "99-what-evil-have-i-done.mp3",
+    "order": 108
   },
   {
     "title": "Black and White and Severus All Over",
     "date": "Sun Jun 27 2010 13:31:08 GMT-0500 (CDT)",
     "body": "<br /><p>Septimius Severus became the undisputed Emperor of Rome after defeating Pescennius Niger in 194 and Clodius Albinus in 197. </p><a href=\"http://traffic.libsyn.com/historyofrome/100-_Black_and_White_and_Severus_All_Over.mp3\">100- Black and White and Severus All Over</a>",
     "index": "100",
-    "audio": "100-black-and-white-and-severus-all-over.mp3"
+    "audio": "100-black-and-white-and-severus-all-over.mp3",
+    "order": 109
   },
   {
     "title": "And All Was of Little Value",
     "date": "Sun Jul 18 2010 23:08:18 GMT-0500 (CDT)",
     "body": "<p>After defeating Clodius Albinus, Septimius Severus turned over daily administration of the Empire to his Praetorian Prefect Gaius Plautianus, while the Emperor himself went looking for further military victories in Parthia. </p><p></p><p><a href=\"http://traffic.libsyn.com/historyofrome/101-_And_All_Was_of_Little_Value.mp3\">101- And All Was of Little Value</a></p>",
     "index": "101",
-    "audio": "101-and-all-was-of-little-value.mp3"
+    "audio": "101-and-all-was-of-little-value.mp3",
+    "order": 110
   },
   {
     "title": "The Common Enemy of Mankind",
     "date": "Sun Jul 25 2010 21:19:43 GMT-0500 (CDT)",
     "body": "<p>Septimius Severus died in 211 while campaigning in Britain. He left the Empire to his sons, but their mutual hatred for one another meant that one of them was going to wind up dead.</p><p></p><p><a href=\"http://traffic.libsyn.com/historyofrome/102-_The_Common_Enemy_of_Mankind.mp3\">102- The Common Enemy of Mankind</a></p>",
     "index": "102",
-    "audio": "102-the-common-enemy-of-mankind.mp3"
+    "audio": "102-the-common-enemy-of-mankind.mp3",
+    "order": 111
   },
   {
     "title": "The Equestrian",
     "date": "Sun Aug 01 2010 22:30:12 GMT-0500 (CDT)",
     "body": "<p>Carcalla was killed by his Praetorian Prefect Macrinus in 217 AD. Macrinus then spent a troubled year as Emperor before the House of Severus came back to challenge his rule. </p><p><a href=\"http://traffic.libsyn.com/historyofrome/103-_The_Equestrian.mp3\">103- The Equestrian</a></p>",
     "index": "103",
-    "audio": "103-the-equestrian.mp3"
+    "audio": "103-the-equestrian.mp3",
+    "order": 112
   },
   {
     "title": "Here Comes the Sun",
     "date": "Sun Aug 08 2010 21:17:08 GMT-0500 (CDT)",
     "body": "<p>Elagabalus became Emperor in 218 AD at the tender age of 14. His reign was defined by a scandalous private life and an obsession with the eastern sun god El-Gabal.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/104-_Here_Comes_the_Sun.mp3\">104- Here Comes the Sun</a></p>",
     "index": "104",
-    "audio": "104-here-comes-the-sun.mp3"
+    "audio": "104-here-comes-the-sun.mp3",
+    "order": 113
   },
   {
     "title": "The Last Princeps",
     "date": "Sun Aug 15 2010 23:12:38 GMT-0500 (CDT)",
     "body": "<p>Alexander was only 13 when he ascended to the throne in 222. With the\r\nhelp of his mother and a few key advisers, he managed to avoid being\r\nthe kind of disaster that previous teenage Emperors had been.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/105-_The_Last_Princeps.mp3\">105- The Last Princeps</a></p>",
     "index": "105",
-    "audio": "105-the-last-princeps.mp3"
+    "audio": "105-the-last-princeps.mp3",
+    "order": 114
   },
   {
     "title": "Barbarian at the Gate",
     "date": "Sun Aug 22 2010 21:58:15 GMT-0500 (CDT)",
     "body": "<p>After bungling a campaign in the east, Alexander headed to the Rhine where he was assassinated by Maximinius Thrax in 235 AD. </p><p>The History of Rome Tour! <a href=\"http://www.historyofrometour.com/\">http://historyofrometour.com</a></p><p><a href=\"http://traffic.libsyn.com/historyofrome/106-_Barbarian_at_the_Gate.mp3\">106- Barbarian at the Gate</a></p><p> </p>",
     "index": "106",
-    "audio": "106-barbarian-at-the-gate.mp3"
+    "audio": "106-barbarian-at-the-gate.mp3",
+    "order": 115
   },
   {
     "title": "The Year of the Six Emperors",
     "date": "Sun Aug 29 2010 20:53:28 GMT-0500 (CDT)",
     "body": "<p>In 238, a revolt in Africa sparked a revolution in Rome that would eventually lead to six different men claiming the title of Augustus. </p><p><em>Update: Episode 107...now with fewer typos and audio glitches! Thanks for being so on the ball everyone. </em></p><p><a href=\"http://traffic.libsyn.com/historyofrome/107-_The_Year_of_the_Six_Emperors.mp3\">107- The Year of the Six Emperors</a></p>",
     "index": "107",
-    "audio": "107-the-year-of-the-six-emperors.mp3"
+    "audio": "107-the-year-of-the-six-emperors.mp3",
+    "order": 116
   },
   {
     "title": "Gordian's Knot",
     "date": "Sun Sep 12 2010 21:39:44 GMT-0500 (CDT)",
     "body": "<p>By August of 238, the other five men who had claimed a share of the\r\npurple were dead, leaving 13-year-old Gordian III as the last man\r\nstanding.</p><a href=\"http://traffic.libsyn.com/historyofrome/108-_Gordians_Knot.mp3\">108- Gordian&#39;s Knot</a><p>Also: We won the <a href=\"http://www.uniwatchblog.com/2010/09/12/and-the-winner-is-2/\">Baseball Jersey design contest</a>! By one vote! Which means I am in the debt of every single listener out there who pulled the lever for us. Thank you so much. I am beyond thrilled. </p>",
     "index": "108",
-    "audio": "108-gordians-knot.mp3"
+    "audio": "108-gordians-knot.mp3",
+    "order": 117
   },
   {
     "title": "The New Millenium",
     "date": "Sun Sep 19 2010 19:10:13 GMT-0500 (CDT)",
     "body": "<p>Gordian III died in 244 AD and was succeeded by his Praetorian Prefect Philip the Arab. While Philip dealt with internal revolts and external invasion, he found time to celebrate Rome&#39;s 1000th birthday in 248 AD.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/109-_The_New_Millenium.mp3\">109- The New Millennium</a></p>",
     "index": "109",
-    "audio": "109-the-new-millenium.mp3"
+    "audio": "109-the-new-millenium.mp3",
+    "order": 118
   },
   {
     "title": "A Gothic Horror",
     "date": "Sun Sep 26 2010 19:39:30 GMT-0500 (CDT)",
     "body": "<p>In 249 AD Decius ousted Philip the Arab and ascended to the Imperial\r\nthrone. Two years later though, Decius was dead after leading the\r\nlegions to a massive defeat at the hands of the Goths.</p><p><a href=\"http://traffic.libsyn.com/historyofrome/110-_A_Gothic_Horror.mp3\">110- A Gothic Horror</a></p><p><em>[Update]: Re-posted to correct Nicopolis/Nicomedia flub. Thanks for the catch Miguel. </em></p>",
     "index": "110",
-    "audio": "110-a-gothic-horror.mp3"
+    "audio": "110-a-gothic-horror.mp3",
+    "order": 119
   },
   {
     "title": "Phase One Complete",
     "date": "Sun Oct 03 2010 22:34:35 GMT-0500 (CDT)",
     "body": "<p>After the Battle of Abrittus, Trebonianus Gallus was proclaimed Emperor. He reigned for two years before being ousted by Aemilianus, who lasted less than a month on the throne before being ousted by Valerian.&#0160; </p>\r\n\r\n<a href=\"http://traffic.libsyn.com/historyofrome/111-_Phase_One_Complete_3.mp3\">111- Phase One Complete</a>",
     "index": "111",
-    "audio": "111-phase-one-complete.mp3"
+    "audio": "111-phase-one-complete.mp3",
+    "order": 120
   },
   {
     "title": "Captured Alive",
     "date": "Sun Oct 17 2010 22:39:29 GMT-0500 (CDT)",
     "body": "<p>Valerian and his son Gallienus did their best to hold the Empire together through the 250s AD, but after Valerian was captured by the Sassanids things quickly spiraledout of control.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/112-_Captured_Alive.mp3 \" target=\"_self\">112- Captured Alive</a></p>",
     "index": "112",
-    "audio": "112-captured-alive.mp3"
+    "audio": "112-captured-alive.mp3",
+    "order": 121
   },
   {
     "title": "Three Empires",
     "date": "Sun Oct 24 2010 09:35:55 GMT-0500 (CDT)",
     "body": "<p>Following the capture of Valerian in 260 AD, the western provinces broke away to form a seperate Empire and the east became controlled by the city of Palmyra.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/113-_Three_Empires.mp3 \" target=\"_self\">113- Three Empires</a></p>",
     "index": "113",
-    "audio": "113-three-empires.mp3"
+    "audio": "113-three-empires.mp3",
+    "order": 122
   },
   {
     "title": "The Nadir of Our Fortunes",
     "date": "Sun Oct 31 2010 23:09:02 GMT-0500 (CDT)",
     "body": "<p>The 260s AD were bad for the Romans, but they could have been a whole lot worse had not Gallienus, Postumus and Odenathus each done their part to defend their respective corners of the Empire.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/114-_The_Nadir_of_Our_Fortunes.mp3 \" target=\"_self\">114- The Nadir of Our Fortunes</a></p>\r\n<p>&#0160;</p>\r\n<p>&#0160;</p>",
     "index": "114",
-    "audio": "114-the-nadir-of-our-fortunes.mp3"
+    "audio": "114-the-nadir-of-our-fortunes.mp3",
+    "order": 123
   },
   {
     "title": "Phase Two Complete",
     "date": "Sun Nov 07 2010 21:24:33 GMT-0600 (CST)",
     "body": "<p>The near simultaneous deaths of Gallienus, Odenathus and Postumus upset the political equilibrium in the late 260s AD.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/115-_Phase_Two_Complete.mp3 \" target=\"_self\">115- Phase Two Complete</a></p>",
     "index": "115",
-    "audio": "115-phase-two-complete.mp3"
+    "audio": "115-phase-two-complete.mp3",
+    "order": 124
   },
   {
     "title": "Here Come the Illyrians",
     "date": "Mon Nov 22 2010 00:03:04 GMT-0600 (CST)",
     "body": "<p>Claudius Gothicus became Emperor in 268 and promptly lead the legions to victory against the Goths and the Alamanni. Unfortunately he died before he was able to reunify the Empire.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/116-_Here_Come_the_Illyrians.mp3 \" target=\"_self\">116- Here Come the Illyrians</a></p>",
     "index": "116",
-    "audio": "116-here-come-the-illyrians.mp3"
+    "audio": "116-here-come-the-illyrians.mp3",
+    "order": 125
   },
   {
     "title": "Aurelian's Walls",
     "date": "Sun Nov 28 2010 21:34:43 GMT-0600 (CST)",
     "body": "<p>Aurelian became Emperor in 270 and immediatly faced an invasion of Italy by the Juthungi. After succesfully driving the Germans off, Aurelian turned his attention to building a new wall circuit around Rome to protect the capital in the future.</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e039fb3d970b-pi\" style=\"display: inline;\"><img alt=\"Aurelian Wall Map\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c0147e039fb3d970b image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e039fb3d970b-800wi\" title=\"Aurelian Wall Map\" /></a></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c013489962634970c-pi\" style=\"display: inline;\"><img alt=\"Celio_-_le_mura_tra_porta_san_Sebastiano_e_porta_Ardeatina_2004\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c013489962634970c image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c013489962634970c-800wi\" title=\"Celio_-_le_mura_tra_porta_san_Sebastiano_e_porta_Ardeatina_2004\" /></a> <br /><br /></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e039fd23970b-pi\" style=\"display: inline;\"><img alt=\"Celio_-_Porta_san_Sebastiano_-_camminamento_fra_le_torri_1992st\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c0147e039fd23970b image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e039fd23970b-800wi\" title=\"Celio_-_Porta_san_Sebastiano_-_camminamento_fra_le_torri_1992st\" /></a> <br /> <a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e039fed4970b-pi\" style=\"display: inline;\"><img alt=\"Porta_Asinaria_2948\" border=\"0\" class=\"asset asset-image at-xid-6a01053629a711970c0147e039fed4970b image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e039fed4970b-800wi\" title=\"Porta_Asinaria_2948\" /></a> <br />images from wikipedia</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/117-_Aurelians_Walls.mp3 \" target=\"_self\">117- Aurelian&#39;s Walls</a></p>",
     "index": "117",
-    "audio": "117-aurelians-walls.mp3"
+    "audio": "117-aurelians-walls.mp3",
+    "order": 126
   },
   {
     "title": "The Palmyrene Wars",
     "date": "Sun Dec 05 2010 21:13:25 GMT-0600 (CST)",
     "body": "<p>In 272 Aurelian finally managed to bring the east back under Roman control by defeating Queen Zenobia of Palmyra</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/118-_The_Palmyrene_Wars.mp3 \" target=\"_self\">118- The Palmyrene Wars</a></p>",
     "index": "118",
-    "audio": "118-the-palmyrene-wars.mp3"
+    "audio": "118-the-palmyrene-wars.mp3",
+    "order": 127
   },
   {
     "title": "Restitutor Orbis",
     "date": "Sun Dec 12 2010 23:15:00 GMT-0600 (CST)",
     "body": "<p>Aurelian defeated the breakaway western provinces and reunified the Empire in 274 AD. The next year he was assassinated by officers who had been tricked into committing murder.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/119-_Resitutor_Orbis.mp3 \" target=\"_self\">119- Restitutor Orbis</a></p>",
     "index": "119",
-    "audio": "119-restitutor-orbis.mp3"
+    "audio": "119-restitutor-orbis.mp3",
+    "order": 128
   },
   {
     "title": "Interregnum",
     "date": "Sun Dec 19 2010 22:54:20 GMT-0600 (CST)",
     "body": "<p>After Aurelian&#39;s death, an old Senator named Marcus Cluadius Tacitus briefly reigned before the throne fell to Probus, who ruled from 276-282.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/120-_Interregnum.mp3 \" target=\"_self\">120- Interregnum</a></p>\r\n<p>&#0160;</p>",
     "index": "120",
-    "audio": "120-interregnum.mp3"
+    "audio": "120-interregnum.mp3",
+    "order": 129
   },
   {
     "title": "Phase Three Complete",
     "date": "Sun Jan 09 2011 23:16:18 GMT-0600 (CST)",
     "body": "<p>The Crisis of the Third Century finally ended with the mini dynasty of Carus and his two sons. In 284 Diocletian rose to power, ushering in a new age in Roman history.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/121-_Phase_Three_Complete.mp3 \" target=\"_self\">121- Phase Three Complete</a></p>",
     "index": "121",
-    "audio": "121-phase-three-complete.mp3"
+    "audio": "121-phase-three-complete.mp3",
+    "order": 130
   },
   {
     "title": "Jupiter and Hercules",
     "date": "Sun Jan 16 2011 17:32:24 GMT-0600 (CST)",
     "body": "<p>Immediatly after becoming the undisputed Emperor in 285, Diocletian elevated Maximian to serve as his Imperial colleague.</p>\r\n<p>Podcast Squared Interview: <a href=\"http://lifestylepodnetwork.com.au/podcastsquared/podcast-squared-31-savage-history/\" target=\"_self\">http://lifestylepodnetwork.com.au/podcastsquared/podcast-squared-31-savage-history/</a></p>\r\n<p>KOOP Radio<a href=\"http://www.koop.org\" target=\"_self\">: </a><a href=\"http://www.koop.org\" target=\"_self\">www.koop.org</a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/122-_Jupiter_and_Hercules.mp3 \" target=\"_self\">122- Jupiter and Hercules</a></p>\r\n<p>&#0160;</p>",
     "index": "122",
-    "audio": "122-jupiter-and-hercules.mp3"
+    "audio": "122-jupiter-and-hercules.mp3",
+    "order": 131
   },
   {
     "title": "The Tetrarchy",
     "date": "Sun Jan 23 2011 23:00:01 GMT-0600 (CST)",
     "body": "<p>In 293 AD Diocletian and Maximian invited Constantius and Galerius to share in their Imperial burdens, forming what we today call the Tetrarchy.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/123-_The_Tetrarchy.mp3 \" target=\"_self\">123- The Tetrarchy</a></p>",
     "index": "123",
-    "audio": "123-the-tetrarchy.mp3"
+    "audio": "123-the-tetrarchy.mp3",
+    "order": 132
   },
   {
     "title": "The Tetrarchs at War",
     "date": "Sun Jan 30 2011 22:57:44 GMT-0600 (CST)",
     "body": "<p>In the mid-to-late 290s the Imperial Tetrarchy was at war on multiple fronts. In the west Constantius undertook the reconquest of Britain, while in the east, Galerius fought a newly hostile Sassanid Empire.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/124-_The_Tetrarchs_at_War.mp3 \" target=\"_self\">124- The Tetrarchs at War</a></p>",
     "index": "124",
-    "audio": "124-the-tetrarchs-at-war.mp3"
+    "audio": "124-the-tetrarchs-at-war.mp3",
+    "order": 133
   },
   {
     "title": "The Best Defence is a Good Defence",
     "date": "Sun Feb 06 2011 20:10:06 GMT-0600 (CST)",
     "body": "<p>Over the course of his reign Diocletian instituted a number of reforms  to the military structure that helped transform the legions into a new  kind of army.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/125-_The_Best_Defence_is_a_Good_Defence.mp3 \" target=\"_self\">125- The Best Defence is a Good Defence</a></p>\r\n<p>&#0160;</p>",
     "index": "125",
-    "audio": "125-the-best-defence-is-a-good-defence.mp3"
+    "audio": "125-the-best-defence-is-a-good-defence.mp3",
+    "order": 134
   },
   {
     "title": "All The King's Men",
     "date": "Sun Feb 13 2011 21:49:31 GMT-0600 (CST)",
     "body": "<p>Over the course of his reign Diocletian overhauled the government,  transforming it into a centralized bureaucracy run by career civil  servants.</p>\r\n<p>Link to a good map of the Empire c 400 AD showing the new provincial organization established by Diocletian: <a href=\"http://upload.wikimedia.org/wikipedia/commons/0/04/The_Roman_Empire_ca_400_AD.png\" target=\"_self\">http://upload.wikimedia.org/wikipedia/commons/0/04/The_Roman_Empire_ca_400_AD.png</a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/126-_All_The_Kings_Men.mp3 \" target=\"_self\">126- All The King&#39;s Men</a></p>",
     "index": "126",
-    "audio": "126-all-the-kings-men.mp3"
+    "audio": "126-all-the-kings-men.mp3",
+    "order": 135
   },
   {
     "title": "Commanding The Economy",
     "date": "Sun Feb 20 2011 19:03:22 GMT-0600 (CST)",
     "body": "<p>Rome&#39;s economy was in disarray when Diocletian came to power and he initiated major overhauls to get the system running again.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/127-_Commanding_The_Economy.mp3 \" target=\"_self\">127- Commanding The Economy</a></p>",
     "index": "127",
-    "audio": "127-commanding-the-economy.mp3"
+    "audio": "127-commanding-the-economy.mp3",
+    "order": 136
   },
   {
     "title": "The Great Persecuction",
     "date": "Sun Feb 27 2011 20:54:57 GMT-0600 (CST)",
     "body": "<p>In 303 AD Diocletian initiated the last and greatest of the Christian persecutions.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/128-_The_Great_Persecution.mp3\" target=\"_self\">128- The Great Persecuction</a></p>",
     "index": "128",
-    "audio": "128-the-great-persecuction.mp3"
+    "audio": "128-the-great-persecuction.mp3",
+    "order": 137
   },
   {
     "title": "Abdication",
     "date": "Sun Mar 06 2011 22:23:27 GMT-0600 (CST)",
     "body": "<p>In 305 AD, Diocletian and Maximian voluntarily abdicated the throne, handing power over to Galerius and Constantius.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/129-_Abdication.mp3 \" target=\"_self\">129- Abdication</a></p>",
     "index": "129",
-    "audio": "129-abdication.mp3"
+    "audio": "129-abdication.mp3",
+    "order": 138
   },
   {
     "title": "Lost in Transition",
     "date": "Sun Mar 13 2011 21:00:33 GMT-0500 (CDT)",
     "body": "<p>Less than two years after Diocletian&#39;s abdication, the Tetrarchy was left in shambles following the power plays of Constantine and Maxentius.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/130-_Lost_in_Transition.mp3 \" target=\"_self\">130- Lost in Transition</a></p>",
     "index": "130",
-    "audio": "130-lost-in-transition.mp3"
+    "audio": "130-lost-in-transition.mp3",
+    "order": 139
   },
   {
     "title": "The New Game in Town",
     "date": "Sun Mar 27 2011 21:42:54 GMT-0500 (CDT)",
     "body": "<p>With the Tetrarchy in shambles, Diocletian will be called out of retirement in 308 AD to help broker a settlement. But the <em>new</em> new order will prove as bad as the <em>old</em> new order.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/131-_The_New_Game_in_Town.mp3 \" target=\"_self\">131- The New Game in Town</a></p>\r\n<p><em>Note: For some reason Libsyn is telling me that the link won&#39;t go live for another couple of hours, but I&#39;m posting this now because I want to go to bed please... </em></p>",
     "index": "131",
-    "audio": "131-the-new-game-in-town.mp3"
+    "audio": "131-the-new-game-in-town.mp3",
+    "order": 140
   },
   {
     "title": "In This Sign",
     "date": "Sun Apr 03 2011 21:51:16 GMT-0500 (CDT)",
     "body": "<p>Prior to the Battle of the Milvian Bridge Constantine experienced visions and dreams that promised him victory if he embraced Christianity.</p>\r\n<p>The Chi-Ro:</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c014e605c90f2970c-pi\" style=\"display: inline;\"><img alt=\"Chi_rho[1]\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c014e605c90f2970c\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c014e605c90f2970c-800wi\" title=\"Chi_rho[1]\" /></a> <br />Depiction of what the Labarum might have looked like:</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e3b7c260970b-pi\" style=\"display: inline;\"><img alt=\"Labarum\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c0147e3b7c260970b\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0147e3b7c260970b-800wi\" title=\"Labarum\" /></a></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/132-_In_This_Sign.mp3 \" target=\"_self\">132- In This Sign</a></p>\r\n<p><em>Images from Wikipedia</em></p>\r\n<p>&#0160;</p>",
     "index": "132",
-    "audio": "132-in-this-sign.mp3"
+    "audio": "132-in-this-sign.mp3",
+    "order": 141
   },
   {
     "title": "The Milvian Bridge",
     "date": "Sun Apr 10 2011 20:25:45 GMT-0500 (CDT)",
     "body": "<p>On October 28, 312 AD Constantine and Maxentius fought a battle at Rome&#39;s doorstep for control of the Western Empire.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/133-_The_Milvian_Bridge.mp3 \" target=\"_self\">133- The Milvian Bridge</a></p>",
     "index": "133",
-    "audio": "133-the-milvian-bridge.mp3"
+    "audio": "133-the-milvian-bridge.mp3",
+    "order": 142
   },
   {
     "title": "And Then There Were Two",
     "date": "Sun Apr 17 2011 19:13:52 GMT-0500 (CDT)",
     "body": "<p>In 313 AD, Maximinus Daia and Licinus fought for control of the Eastern Roman Empire.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/134-_And_Then_There_Were_Two.mp3 \" target=\"_self\">134- And Then There Were Two</a></p>",
     "index": "134",
-    "audio": "134-and-then-there-were-two.mp3"
+    "audio": "134-and-then-there-were-two.mp3",
+    "order": 143
   },
   {
     "title": "Brothers in Name Only",
     "date": "Sun Apr 24 2011 19:54:48 GMT-0500 (CDT)",
     "body": "<p>Constantine and Licinius divided up the Empire following the death of Maximinus Daia in 313. It did not take long for relations betweent the two Emperors to turn sour.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/135-_Brothers_in_Name_Only.mp3 \" target=\"_self\">135- Brothers in Name Only</a></p>",
     "index": "135",
-    "audio": "135-brothers-in-name-only.mp3"
+    "audio": "135-brothers-in-name-only.mp3",
+    "order": 144
   },
   {
     "title": "Let this Be Our Final Battle",
     "date": "Sun May 01 2011 18:35:30 GMT-0500 (CDT)",
     "body": "<p>War between Licinius and Constantine flared up again in 324 AD. This time Constantine would finish the job.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/136-_Let_This_Be_Our_Final_Battle_2.mp3 \" target=\"_self\">136- Let this Be Our Final Battle</a></p>\r\n<p>&#0160;</p>",
     "index": "136",
-    "audio": "136-let-this-be-our-final-battle.mp3"
+    "audio": "136-let-this-be-our-final-battle.mp3",
+    "order": 145
   },
   {
     "title": "The Christian Emperor",
     "date": "Sun May 15 2011 09:53:20 GMT-0500 (CDT)",
     "body": "<p>This episode brought to you live and direct from Constantinople! After defeating Licinius, Constantine found his dream of a united Christian Empire foiled by a very disunited Christian Church.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/137-_The_Christian_Emperor.mp3 \" target=\"_self\">137- The Christian Emperor</a></p>",
     "index": "137",
-    "audio": "137-the-christian-emperor.mp3"
+    "audio": "137-the-christian-emperor.mp3",
+    "order": 146
   },
   {
     "title": "The New Rome",
     "date": "Mon May 30 2011 01:27:46 GMT-0500 (CDT)",
     "body": "<p>Live and direct from the Old Rome!</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/138-_The_New_Rome.mp3 \" target=\"_self\">138- The New Rome</a></p>",
     "index": "138",
-    "audio": "138-the-new-rome.mp3"
+    "audio": "138-the-new-rome.mp3",
+    "order": 147
   },
   {
     "title": "Wash Away Your Sins",
     "date": "Sun Jun 12 2011 20:05:17 GMT-0500 (CDT)",
     "body": "<p>Constantine was baptized on his deathbed after arranging a plan for succession.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/139-_Wash_Away_Your_Sins.mp3 \" target=\"_self\">139- Wash Away Your Sins</a></p>",
     "index": "139",
-    "audio": "139-wash-away-your-sins.mp3"
+    "audio": "139-wash-away-your-sins.mp3",
+    "order": 148
   },
   {
     "title": "My Three Sons",
     "date": "Sun Jun 19 2011 23:39:00 GMT-0500 (CDT)",
     "body": "<p>The three sons of Constantine took control of the Empire following the death of their father and the murder of most of their extended family.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/140-_My_Three_Sons.mp3 \" target=\"_self\">140- My Three Sons</a></p>",
     "index": "140",
-    "audio": "140-my-three-sons.mp3"
+    "audio": "140-my-three-sons.mp3",
+    "order": 149
   },
   {
     "title": "Blood and Water",
     "date": "Sun Jun 26 2011 22:50:55 GMT-0500 (CDT)",
     "body": "<p>Constantius and Constans shared the Empire for a decade until Constans was overthrown by a rebel general named Magnetius in 350 AD.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/141-_Blood_and_Water.mp3 \" target=\"_self\">141- Blood and Water</a></p>\r\n<p><em>Update: Redirect issue fixed. Sorry about that. </em></p>",
     "index": "141",
-    "audio": "141-blood-and-water.mp3"
+    "audio": "141-blood-and-water.mp3",
+    "order": 150
   },
   {
     "title": "You've Earned It",
     "date": "Mon Jul 04 2011 01:35:04 GMT-0500 (CDT)",
     "body": "<p>After two years of sporadic war, Constantius II defeated the usurper Magnentius in 353. Following his victory the Emperor let his advisors talk him into executing first Gallus in 354 and then Claudius Silvanus in 355.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/142-_You_Earned_It.mp3 \" target=\"_self\">142- You&#39;ve Earned It</a></p>",
     "index": "142",
-    "audio": "142-youve-earned-it.mp3"
+    "audio": "142-youve-earned-it.mp3",
+    "order": 151
   },
   {
     "title": "Julian the Pre-Apostate",
     "date": "Sun Jul 10 2011 14:20:35 GMT-0500 (CDT)",
     "body": "<p>After a childhood spent mostly in exile, Juian was elevated to the rank of Caesar in 355. His first assignment was to clear Gaul of Germanic invaders.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/143-_Julian_the_Pre-Apostate.mp3 \" target=\"_self\">143- Julian the Pre-Apostate</a></p>",
     "index": "143",
-    "audio": "143-julian-the-pre-apostate.mp3"
+    "audio": "143-julian-the-pre-apostate.mp3",
+    "order": 152
   },
   {
     "title": "The Road to Constantinople",
     "date": "Sun Jul 24 2011 21:09:11 GMT-0500 (CDT)",
     "body": "<p>Once he was established as a force to be reckoned with in the west, Julian revolted against Constantius II in 360 after the Emperor ordered half the Gallic army redeployed to the eastern frontier.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/144-_The_Road_To_Constantinople.mp3 \" target=\"_self\">144- The Road to Constantinople</a></p>",
     "index": "144",
-    "audio": "144-the-road-to-constantinople.mp3"
+    "audio": "144-the-road-to-constantinople.mp3",
+    "order": 153
   },
   {
     "title": "Julian the Apostate",
     "date": "Sun Jul 31 2011 16:41:00 GMT-0500 (CDT)",
     "body": "<p>Julian came to power in late 361 and immediately set about trying to turn back the clock on both Church and State.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/145-_Julian_the_Apostate.mp3 \" target=\"_self\">145- Julian the Apostate</a></p>",
     "index": "145",
-    "audio": "145-julian-the-apostate.mp3"
+    "audio": "145-julian-the-apostate.mp3",
+    "order": 154
   },
   {
     "title": "The Spear of Destiny",
     "date": "Sun Aug 07 2011 20:31:00 GMT-0500 (CDT)",
     "body": "<p>In 363 Julian launched an invasion of Sassanid Persia. He would die in battle just three months later.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/146-_The_Spear_of_Destiny.mp3\" target=\"_self\">146- The Spear of Destiny</a></p>\r\n<p><em>Update: OK, wow, passing along the recommendation for </em>1421: The Year China Discovered the World<em> was a huge blunder. I have re-recorded the ad to correct the mistake. The embedded link reflects the newer version, so if you want to forget this grizzly business, just erase the episode you have and replace it with the one linked to above. </em></p>\r\n<p><em>The new ad script: </em></p>\r\n<p><em>&quot;This week I initially passed along a listener recommendation for </em>1421: The Year China Discovered the World.<em> However, I must confess that I did not do my usual due diligence on researching the merits of the book and so am just now discovering that </em>1421<em> is basically pseudo-historical nonsense that relies on no good evidence whatsoever, speculates wildly beyond the facts and that the author Gavin Menzies is basically a novelist pretending to be a historian. I am embarrassed to have given </em>1421 <em>The History of Romeb\u0000\u0019s seal-of-approval, it is not good history, and I sincerely apologize for what can only be described as a sloppy recommendation. How about next time I just recommend </em>The History of the World in 100 Objects<em> or maybe one of those </em>Star Wars<em> books people keep wanting me to plug?&quot;</em></p>\r\n<p><em>Mea Culpa,</em></p>\r\n<p><em>Mike</em></p>",
     "index": "146",
-    "audio": "146-the-spear-of-destiny.mp3"
+    "audio": "146-the-spear-of-destiny.mp3",
+    "order": 155
   },
   {
     "title": "Capitulation",
     "date": "Sun Aug 14 2011 20:37:26 GMT-0500 (CDT)",
     "body": "<p>Jovian extracted the Roman legions from the east at a heavy price. He  then ruled the Empire for eight months before suddenly dying on his way  to Constantinople in early 364.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/147-_Capitulation.mp3 \" target=\"_self\">147- Capitulation</a></p>",
     "index": "147",
-    "audio": "147-capitulation.mp3"
+    "audio": "147-capitulation.mp3",
+    "order": 156
   },
   {
     "title": "The Cousin's Cousin",
     "date": "Sun Aug 21 2011 21:44:25 GMT-0500 (CDT)",
     "body": "<p>Shortly after Valentinian and Valens ascended to the throne, one of Julian the Apostate&#39;s maternal cousins seized control of Constantinople.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/148-_The_Cousins_Cousin.mp3 \" target=\"_self\">148- The Cousin&#39;s Cousin</a></p>",
     "index": "148",
-    "audio": "148-the-cousins-cousin.mp3"
+    "audio": "148-the-cousins-cousin.mp3",
+    "order": 157
   },
   {
     "title": "The Great Conspiracy",
     "date": "Sun Aug 28 2011 19:44:50 GMT-0500 (CDT)",
     "body": "<p>In the winter of 367, Britannia was hit from all sides by a coordinated barbarian invasion. It would be more than a year before the Romans were able to reassert control over the island.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/149-_The_Great_Conspiracy.mp3 \" target=\"_self\">149- The Great Conspiracy</a></p>",
     "index": "149",
-    "audio": "149-the-great-conspiracy.mp3"
+    "audio": "149-the-great-conspiracy.mp3",
+    "order": 158
   },
   {
     "title": "The Perils of Mismanagement",
     "date": "Sun Sep 04 2011 14:02:13 GMT-0500 (CDT)",
     "body": "<p>n the late 360s and early 370s AD Roman mismanagement of three different regions in the Western Empire led to armed conflict.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/150-_The_Perils_of_Mismanagement.mp3 \" target=\"_self\">150- The Perils of Mismanagement</a></p>",
     "index": "150",
-    "audio": "150-the-perils-of-mismanagement.mp3"
+    "audio": "150-the-perils-of-mismanagement.mp3",
+    "order": 159
   },
   {
     "title": "Bursting a Blood Vessel",
     "date": "Sun Sep 11 2011 14:35:42 GMT-0500 (CDT)",
     "body": "<p>Valens spent the late 360s and early 370s dealing with hostile Goths in the north and hostile Persians in the east. In 375 he would be left to face these threats alone when Valentinian suddenly died.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/151-_Bursting_a_Blood_Vessel_2.mp3 \" target=\"_self\">151- Bursting a Blood Vessel</a></p>",
     "index": "151",
-    "audio": "151-bursting-a-blood-vessel.mp3"
+    "audio": "151-bursting-a-blood-vessel.mp3",
+    "order": 160
   },
   {
     "title": "The Storm Before the Storm",
     "date": "Sun Sep 25 2011 10:45:11 GMT-0500 (CDT)",
     "body": "<p>In 375 the Huns exploded into Gothic territory, sending refugees fleeing for the saftey of the Roman Empire.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/152-_The_Storm_Before_the_Storm_2.mp3 \" target=\"_self\">152- The Storm Before the Storm</a></p>",
     "index": "152",
-    "audio": "152-the-storm-before-the-storm.mp3"
+    "audio": "152-the-storm-before-the-storm.mp3",
+    "order": 161
   },
   {
     "title": "Adrianople",
     "date": "Tue Oct 04 2011 18:06:54 GMT-0500 (CDT)",
     "body": "<p>Operating with faulty intelligence and desperate to defeat the Goths on  his own, Valens forced the disasterous Battle of Adrianople in August  378.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/153-_Adrianople.mp3 \" target=\"_self\">153- Adrianople</a></p>",
     "index": "153",
-    "audio": "153-adrianople.mp3"
+    "audio": "153-adrianople.mp3",
+    "order": 162
   },
   {
     "title": "The Gothic War",
     "date": "Sun Oct 09 2011 23:39:29 GMT-0500 (CDT)",
     "body": "<p>Following Adrianople, Theodosius was brought in to salvage the situation. After determining that he could not beat the Goths in battle, the new Emperor was forced to sign a peace with the barbarians that treated them as, gasp, equals.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/154-_The_Gothic_War.mp3 \" target=\"_self\">154- The Gothic War</a></p>",
     "index": "154",
-    "audio": "154-the-gothic-war.mp3"
+    "audio": "154-the-gothic-war.mp3",
+    "order": 163
   },
   {
     "title": "The New Bishop of Milan",
     "date": "Sun Oct 16 2011 17:19:33 GMT-0500 (CDT)",
     "body": "<p>In 383 the General Magnus Maximus rose up in revolt against Gratian. The  power sharing agreement that followed Maximus&#39;s victory would be  negotiated in part by St. Ambrose, the influencial new Bishop of Milan.</p>\r\n<p><em>Update: The first Sack of Rome was in 410 not 406. Brain fart corrected. </em></p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/155-_The_New_Bishop_of_Milan.mp3 \" target=\"_self\">155- The New Bishop of Milan</a></p>\r\n<p>&#0160;</p>",
     "index": "155",
-    "audio": "155-the-new-bishop-of-milan.mp3"
+    "audio": "155-the-new-bishop-of-milan.mp3",
+    "order": 164
   },
   {
     "title": "Jockeying for Position",
     "date": "Sun Oct 23 2011 19:48:31 GMT-0500 (CDT)",
     "body": "<p>From 383-387 the tense quasi-partnership of Maximus, Valentinian II and Theodosius  ruled the Roman Empire. During those years Bishop Ambrose and Nicean  Christianity pushed themselves to dominance over their Arians rivals.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/156-_Jockeying_for_Position.mp3 \" target=\"_self\">156- Jockeying for Position</a></p>",
     "index": "156",
-    "audio": "156-jockeying-for-position.mp3"
+    "audio": "156-jockeying-for-position.mp3",
+    "order": 165
   },
   {
     "title": "Only the Penitent Man Shall Pass",
     "date": "Sun Oct 30 2011 21:26:54 GMT-0500 (CDT)",
     "body": "<p>After defeating the usurper Maximus in 388 AD, Theodosius found himself facing an even greater opponent in Ambrose of Milan.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/157-_Only_the_Pentitent_Man_Shall_Pass.mp3 \" target=\"_self\">&#0160;157- Only the Pentitent Man Shall Pass</a></p>",
     "index": "157",
-    "audio": "157-only-the-penitent-man-shall-pass.mp3"
+    "audio": "157-only-the-penitent-man-shall-pass.mp3",
+    "order": 166
   },
   {
     "title": "An Imperial Suicide",
     "date": "Sun Nov 13 2011 18:12:59 GMT-0600 (CST)",
     "body": "<div>\r\n<p>In 392 Valentinian II was found hanged in his bedchamber, paving the way for another Roman Civil War.&#0160;</p>\r\n</div>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/158-_Imperial_Suicide.mp3 \" target=\"_self\">158- An Imperial Suicide</a></p>\r\n<p>&#0160;</p>",
     "index": "158",
-    "audio": "158-an-imperial-suicide.mp3"
+    "audio": "158-an-imperial-suicide.mp3",
+    "order": 167
   },
   {
     "title": "The Divine Winds",
     "date": "Sun Nov 20 2011 19:54:00 GMT-0600 (CST)",
     "body": "<p>After winning the Battle of the Frigidus River, Theodosius stood alone as the last sole ruler of the Roman Empire. He would be dead just four months later.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/159-_The_Divine_Winds.mp3 \" target=\"_self\">159- The Divine Winds</a></p>\r\n<p>&#0160;</p>",
     "index": "159",
-    "audio": "159-the-divine-winds.mp3"
+    "audio": "159-the-divine-winds.mp3",
+    "order": 168
   },
   {
     "title": "East vs. West",
     "date": "Sun Nov 27 2011 20:58:11 GMT-0600 (CST)",
     "body": "<div>\r\n<p>In the late 390s, the generals and ministers who dominated Arcadius and Honorius battled with each other for control of the Empire.&#0160;</p>\r\n</div>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/160-_East_vs._West.mp3\" target=\"_self\">160- East vs. West</a></p>",
     "index": "160",
-    "audio": "160-east-vs-west.mp3"
+    "audio": "160-east-vs-west.mp3",
+    "order": 169
   },
   {
     "title": "The Swamps of Ravenna",
     "date": "Sun Dec 04 2011 20:07:35 GMT-0600 (CST)",
     "body": "<div>\r\n<p>Alaric and his Goths invaded Italy in 402. After they were pushed out, Stilicho moved the seat of the Western Imperial Court to the city of Ravenna.&#0160;</p>\r\n</div>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/161-_The_Swamps_of_Ravenna.mp3\" target=\"_self\">161- The Swamps of Ravenna</a></p>\r\n<p>&#0160;</p>",
     "index": "161",
-    "audio": "161-the-swamps-of-ravenna.mp3"
+    "audio": "161-the-swamps-of-ravenna.mp3",
+    "order": 170
   },
   {
     "title": "Opening the Floodgates",
     "date": "Sun Dec 11 2011 23:27:59 GMT-0600 (CST)",
     "body": "<div>\r\n<p>On New Year&#39;s Eve 406 a horde of barbarians crossed the lower Rhine into Gaul. Their arrival would have severe consequences for the Western Empire.&#0160;</p>\r\n</div>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/162-_Opening_the_Floodgates.mp3\" target=\"_self\">162- Opening the Floodgates</a></p>",
     "index": "162",
-    "audio": "162-opening-the-floodgates.mp3"
+    "audio": "162-opening-the-floodgates.mp3",
+    "order": 171
   },
   {
     "title": "Theodosius's Walls",
     "date": "Sun Dec 18 2011 13:28:48 GMT-0600 (CST)",
     "body": "<p>Following the death of Eudoxia, the Praetorian Prefect Anthemius took control of the Eastern Empire and ran it wisely for the next decade. Meanwhile in the West, anti-barbarian policies will lead to the invasion of Italy by Alaric.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/163-_Theodosiuss_Walls.mp3\" target=\"_self\">163- Theodosius&#39;s Walls</a></p>\r\n<p>Here are Mrs. The History of Rome&#39;s pictures from The History of Rome Tour May 2010 (<a href=\"HTTP://www.historyofrometour.com\" target=\"_self\">http://historyofrometour.com</a>)</p>\r\n<p><em>The poor foot-soldier&#39;s view as he approaches the wall. In front is the outer 8 meter wall. Behind it is the inner 12 meter wall and the 20 meter guard towers. This isn&#39;t going to work is it?:</em></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01675ef2d595970b-pi\" style=\"display: inline;\"><img alt=\"IMG_3490_small\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c01675ef2d595970b\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01675ef2d595970b-800wi\" title=\"IMG_3490_small\" /></a></p>\r\n<p><em>The no man&#39;s land between the two walls. This is where that poor soldier is going to die:</em></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01675ef2d96c970b-pi\" style=\"display: inline;\"><img alt=\"IMG_3492_small\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c01675ef2d96c970b\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01675ef2d96c970b-800wi\" title=\"IMG_3492_small\" /></a></p>\r\n<p><em>Looking down from atop the Inner wall into the no man&#39;s land and the outer wall. This is where the guy who killed that poor foot soldier stood: &#0160;</em></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0162fdfed4b1970d-pi\" style=\"display: inline;\"><img alt=\"IMG_3515_small\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c0162fdfed4b1970d\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0162fdfed4b1970d-800wi\" title=\"IMG_3515_small\" /></a></p>\r\n<p><em>And it just goes on like that from the Sea of Marmara to the Golden Horn. Um General, I don&#39;t want to attack Constantinople. I want to go home:</em></p>\r\n<p><em> <a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0162fdfed777970d-pi\" style=\"display: inline;\"><img alt=\"IMG_3514_small\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c0162fdfed777970d\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0162fdfed777970d-800wi\" title=\"IMG_3514_small\" /></a><br />&#0160;</em><em>Hi Tony!</em></p>\r\n<p><em>The line on the far left is the Theodosian Walls:</em></p>\r\n<p><em> <a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01675ef2fa98970b-pi\" style=\"display: inline;\"><img alt=\"Constantinople_map1\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c01675ef2fa98970b image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01675ef2fa98970b-800wi\" title=\"Constantinople_map1\" /></a><br /><br /></em></p>",
     "index": "163",
-    "audio": "163-theodosiuss-walls.mp3"
+    "audio": "163-theodosiuss-walls.mp3",
+    "order": 172
   },
   {
     "title": "The Sack of Rome",
     "date": "Sun Jan 08 2012 19:38:09 GMT-0600 (CST)",
     "body": "<p>After failing to secure a deal with Honorius, Alaric sacked Rome in August of 410. It was the first time the Eternal City had been sacked in 800 years.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/164-_The_Sack_of_Rome.mp3\" target=\"_self\">164- The Sack of Rome</a></p>",
     "index": "164",
-    "audio": "164-the-sack-of-rome.mp3"
+    "audio": "164-the-sack-of-rome.mp3",
+    "order": 173
   },
   {
     "title": "Reviving the Roman Name",
     "date": "Sun Jan 15 2012 13:52:01 GMT-0600 (CST)",
     "body": "<p>Between 412 and 415 relations between the Romans and Goths shifted back and forth between alliance and antagonism.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/165-_Reviving_the_Roman_Name.mp3\" target=\"_self\">165- Reviving the Roman Name</a></p>",
     "index": "165",
-    "audio": "165-reviving-the-roman-name.mp3"
+    "audio": "165-reviving-the-roman-name.mp3",
+    "order": 174
   },
   {
     "title": "As Long As She's Nice To Look At",
     "date": "Sun Jan 22 2012 14:07:46 GMT-0600 (CST)",
     "body": "<div>\r\n<p>Constantius III continued to lead the Western Empire as its defacto Emperor until 421, when he was officially elevated to the rank of Augustus. Unfortunately, this elevation was not recognized by Cosntantinople.</p>\r\n</div>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/166-_As_Long_As_Shes_Nice_to_Look_At.mp3\" target=\"_self\">166- As Long As She&#39;s Nice To Look At</a></p>",
     "index": "166",
-    "audio": "166-as-long-as-shes-nice-to-look-at.mp3"
+    "audio": "166-as-long-as-shes-nice-to-look-at.mp3",
+    "order": 175
   },
   {
     "title": "Exploiting the Opportunity",
     "date": "Sun Jan 29 2012 13:41:47 GMT-0600 (CST)",
     "body": "<p>The Emperor Honorius died in 423, leading to a brief civil war between the Theodosian dynasty and a self-proclaimed Imperial regime in Ravenna.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/167-_Exploiting_the_Opportunity.mp3\" target=\"_self\">167- Exploiting the Opportunity</a></p>",
     "index": "167",
-    "audio": "167-exploiting-the-opportunity.mp3"
+    "audio": "167-exploiting-the-opportunity.mp3",
+    "order": 176
   },
   {
     "title": "The Rise of Aetius",
     "date": "Sun Feb 05 2012 14:03:56 GMT-0600 (CST)",
     "body": "<p>In the late 420s AD, the Roman General Flavius Aetius connived and backstabbed his way up the chain of command.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/168-_The_Rise_of_Aetius.mp3\" target=\"_self\">168- The Rise of Aetius</a></p>",
     "index": "168",
-    "audio": "168-the-rise-of-aetius.mp3"
+    "audio": "168-the-rise-of-aetius.mp3",
+    "order": 177
   },
   {
     "title": "Huns and Vandals and Goths, Oh My",
     "date": "Sun Feb 12 2012 13:56:40 GMT-0600 (CST)",
     "body": "<p>In the 430s the Romans dealt with increasingly agressive and confident barbarian tribes living both inside and outside the traditional borders of the Empire.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/169-_Huns_and_Vandals_and_Goths_Oh_My.mp3\" target=\"_self\">169- Huns and Vandals and Goths, Oh My</a></p>",
     "index": "169",
-    "audio": "169-huns-and-vandals-and-goths-oh-my.mp3"
+    "audio": "169-huns-and-vandals-and-goths-oh-my.mp3",
+    "order": 178
   },
   {
     "title": "Atilla Cometh",
     "date": "Sun Feb 19 2012 13:53:22 GMT-0600 (CST)",
     "body": "<p>In the 440s, the Huns began to direclty attack the Roman Empire.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/170-_Atilla_Cometh.mp3\" target=\"_self\">170- Atilla Cometh</a></p>",
     "index": "170",
-    "audio": "170-atilla-cometh.mp3"
+    "audio": "170-atilla-cometh.mp3",
+    "order": 179
   },
   {
     "title": "The Gathering Storm",
     "date": "Sun Mar 11 2012 13:45:31 GMT-0500 (CDT)",
     "body": "<p>After placating Atilla with yet another indemnity, Theodosius II fell from his horse and died in 450, leaving the Eastern throne vacant.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/171-_The_Gathering_Storm.mp3\" target=\"_self\">171- The Gathering Storm</a></p>",
     "index": "171",
-    "audio": "171-the-gathering-storm.mp3"
+    "audio": "171-the-gathering-storm.mp3",
+    "order": 180
   },
   {
     "title": "Showdown",
     "date": "Sun Mar 18 2012 21:33:17 GMT-0500 (CDT)",
     "body": "<p>In 451 Atilla the Hun invaded the West. He was repelled by a coalition of forces lead by the General Aetius.&#0160;</p>\r\n<p>Maps! (whoops!)</p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0167640786d6970b-pi\" style=\"display: inline;\"><img alt=\"366px-Attila_in_Gaul_451CE\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c0167640786d6970b\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c0167640786d6970b-800wi\" title=\"366px-Attila_in_Gaul_451CE\" /></a></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01676407871d970b-pi\" style=\"display: inline;\"><img alt=\"300px-Chalons_disposition\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c01676407871d970b\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01676407871d970b-800wi\" title=\"300px-Chalons_disposition\" /></a></p>\r\n<p><a href=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01630312b74d970d-pi\" style=\"display: inline;\"><img alt=\"Chalons\" border=\"0\" class=\"asset  asset-image at-xid-6a01053629a711970c01630312b74d970d image-full\" src=\"http://thehistoryofrome.typepad.com/.a/6a01053629a711970c01630312b74d970d-800wi\" title=\"Chalons\" /></a><br /><br /></p>\r\n<p>Also some great links from listener Jamie:</p>\r\n<p><em>Here&#39;s a good account of the Battle of Chalons by military historians Dr. Aryeh Nusbacher and Dr. Saul David on a BBC show.</em></p>\r\n<p><em><a href=\"http://www.youtube.com/watch?v=WdxNGFX1yvY\" rel=\"nofollow\">http://www.youtube.com/watch?v=WdxNGFX1yvY</a></em></p>\r\n<p><em>Start the video at 2 minutes, here is the full show if you like it:</em></p>\r\n<p><em><a href=\"http://www.youtube.com/watch?v=N7HnELFSW84\" rel=\"nofollow\">http://www.youtube.com/watch?v=N7HnELFSW84</a></em></p>\r\n<p><em>There are other battles too, a handly list is here</em></p>\r\n<p><em><a href=\"http://en.wikipedia.org/wiki/Time_Commanders\" rel=\"nofollow\">http://en.wikipedia.org/wiki/Time_Commanders</a></em></p>\r\n<p>And listener Tony:</p>\r\n<p><em>Check out a replay of the Battle of Chalons here:</em></p>\r\n<p><em><a href=\"http://www.fanaticus.org/wadbag/ChalonsHistoricon04/index.html\" rel=\"nofollow\">http://www.fanaticus.org/wadbag/ChalonsHistoricon04/index.html</a></em></p>\r\n<p>Thanks guys!</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/172-_Showdown.mp3 \" target=\"_self\">172- Showdown</a></p>",
     "index": "172",
-    "audio": "172-showdown.mp3"
+    "audio": "172-showdown.mp3",
+    "order": 181
   },
   {
     "title": "The Broken Bow",
     "date": "Sun Mar 25 2012 13:55:11 GMT-0500 (CDT)",
     "body": "<p>In the early 450s a string of deaths changed the political dynamic of Roman world. Between 450 and 455 Galla Placidia, Aelia Pulcheria, Atilla the Hun, Flavius Aetius and Valentinian III would all die- leaving the stage wide open for the next generation of leaders.&#0160;</p>\r\n<p>Also, an announcment.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/173-_The_Broken_Bow.mp3\" target=\"_self\">173- The Broken Bow</a></p>",
     "index": "173",
-    "audio": "173-the-broken-bow.mp3"
+    "audio": "173-the-broken-bow.mp3",
+    "order": 182
   },
   {
     "title": "The Sack of Rome Part II",
     "date": "Sun Apr 01 2012 19:28:44 GMT-0500 (CDT)",
     "body": "<p>Following the death of Valentinian III there was an Imperial power struggle in the West. In the midst of this struggle, the Vandals sacked Rome in 455 AD.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/174-_The_Sack_of_Rome_Part_2.mp3\" target=\"_self\">174- The Sack of Rome Part II</a></p>",
     "index": "174",
-    "audio": "174-the-sack-of-rome-part-ii.mp3"
+    "audio": "174-the-sack-of-rome-part-ii.mp3",
+    "order": 183
   },
   {
     "title": "Trying to Take It All Back",
     "date": "Sun Apr 08 2012 19:39:14 GMT-0500 (CDT)",
     "body": "<p>From 457-461, Majorian marched around trying to reassert Imperial authority over the provinces while Ricimer remained in Italy.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/175-_Trying_to_Take_It_All_Back.mp3 \" target=\"_self\">175- Trying to Take It All Back</a></p>",
     "index": "175",
-    "audio": "175-trying-to-take-it-all-back.mp3"
+    "audio": "175-trying-to-take-it-all-back.mp3",
+    "order": 184
   },
   {
     "title": "The Quote Unquote Emperor",
     "date": "Sun Apr 15 2012 23:31:30 GMT-0500 (CDT)",
     "body": "<p>From 461-465 the Western Empire was ruled by Ricimer through a puppet Emperor named Libius Severus. Not everyone in the west was supportive of the new regime.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/176-_The_Quote_Unquote_Emperor.mp3\" target=\"_self\">176- The Quote Unquote Emperor</a></p>",
     "index": "176",
-    "audio": "176-the-quote-unquote-emperor.mp3"
+    "audio": "176-the-quote-unquote-emperor.mp3",
+    "order": 185
   },
   {
     "title": "The Burning Ships",
     "date": "Sun Apr 22 2012 13:56:20 GMT-0500 (CDT)",
     "body": "<p>In 468 the two halves of the Empire combined forces to dislodge the Vandals from North Africa.They failed spectacularly.</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/177-_The_Burning_Ships.mp3\" target=\"_self\">177- The Burning Ships</a></p>\r\n<p>&#0160;</p>",
     "index": "177",
-    "audio": "177-the-burning-ships.mp3"
+    "audio": "177-the-burning-ships.mp3",
+    "order": 186
   },
   {
     "title": "Not With A Bang But A Whimper",
     "date": "Sun Apr 29 2012 23:01:12 GMT-0500 (CDT)",
     "body": "<p>In the last few years of the Western Empire a series of Emperors came and went. The cycle finally ended in 476 with the exile of Romulus Augustulus.&#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/178-_Not_With_a_Bang_But_a_Whimper.mp3 \" target=\"_self\">178- Not With A Bang But A Whimper</a></p>",
     "index": "178",
-    "audio": "178-not-with-a-bang-but-a-whimper.mp3"
+    "audio": "178-not-with-a-bang-but-a-whimper.mp3",
+    "order": 187
   },
   {
     "title": "The End",
     "date": "Sun May 06 2012 13:19:05 GMT-0500 (CDT)",
     "body": "<p>The history of The History of Rome...Why the Western Empire Fell when it did...Some thoughts on the future...Thank you, goodnight. &#0160;</p>\r\n<p><a href=\"http://traffic.libsyn.com/historyofrome/179-_The_End.mp3 \" target=\"_self\">179- The End</a></p>",
     "index": "179",
-    "audio": "179-the-end.mp3"
+    "audio": "179-the-end.mp3",
+    "order": 188
   }
 ]

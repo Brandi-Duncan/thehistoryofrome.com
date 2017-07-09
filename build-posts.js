@@ -7,12 +7,12 @@ const toMarkdown = require('to-markdown');
 const padZero = (n) =>
   n < 10 ? `0${n}` : n.toString();
 
-const getPostContent = (post, n) =>
+const getPostContent = post =>
 `---
 title: "${post.title}"
 index: "${post.index}"
 audio: "${post.audio}"
-order: ${n}
+order: ${post.order}
 slug: "${post.index}"
 ---
 
