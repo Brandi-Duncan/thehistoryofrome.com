@@ -9,11 +9,13 @@ html {
 }
 
 body {
-  background-color: $color-white;
+  background-color: $color-grey;
   color: $color-navy;
   font-family: "Alegreya Sans", Georgia, serif;
   font-size: 1rem;
   line-height: 1.45;
+  position: relative;
+  z-index: 1;
 }
 
 a {
@@ -27,6 +29,9 @@ audio {
 }
 
 .content {
+  background-color: $color-white;
   display: block;
-  padding: 1.5rem;
+  padding: 1.5rem 1.5rem 3rem;
+  position: relative;
+  z-index: 1;
 }
