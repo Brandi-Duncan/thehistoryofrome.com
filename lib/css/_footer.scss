@@ -20,6 +20,7 @@
 
 .footer__nav {
   align-items: center;
+  border-bottom: solid 1px rgba($color-white, 0.1);
   display: flex;
   flex-wrap: wrap;
   font-weight: 700;
@@ -32,6 +33,15 @@
 
   &:not(:last-child) {
     margin-right: 1em;
+  }
+}
+
+.footer__description {
+  color: rgba($color-white, 0.85);
+  padding: 1.5rem;
+
+  p {
+    max-width: 30rem;
   }
 }
 
