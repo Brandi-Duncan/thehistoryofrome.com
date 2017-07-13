@@ -11,3 +11,7 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      type: pages
+    values:
+      layout: page
