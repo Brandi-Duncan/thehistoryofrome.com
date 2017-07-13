@@ -1,4 +1,4 @@
-const posts = require('./_data/posts.json');
+const posts = require('./posts.json');
 const fs = require('fs');
 const slug = require('slug');
 const rimraf = require('rimraf');
