@@ -1,0 +1,25 @@
+.episode-list {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.episode-list td {
+  padding: 0.75em;
+}
+
+.episode-list tr:nth-child(odd) {
+  background-color: rgba($color-navy, 0.025);
+}
+
+.episode-list__index {
+  font-weight: 700;
+}
+
+.episode-list__title > a {
+  text-decoration: none;
+
+  &:hover {
+    color: $color-red;
+    text-decoration: underline;
+  }
+}

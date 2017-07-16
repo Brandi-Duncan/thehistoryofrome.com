@@ -1,0 +1,14 @@
+{% assign episodes = site.posts | sort: "order" %}
+
+<table class="episode-list">
+    <thead>
+    {% for episode in episodes %}
+        <tr>
+            <td class="episode-list__index">{{ episode.index }}</td>
+            <td class="episode-list__title">
+                <a href="{{ episode.url }}">{{ episode.title }}</a>
+            </td>
+        </tr>
+    {% endfor %}
+    </thead>
+</table>

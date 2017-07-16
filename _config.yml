@@ -15,3 +15,7 @@ defaults:
       type: pages
     values:
       layout: page
+  - scope:
+      type: posts
+    values:
+      permalink: /episodes/:slug/
