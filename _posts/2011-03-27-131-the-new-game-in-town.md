@@ -4,6 +4,7 @@ index: "131"
 audio: "131-the-new-game-in-town.mp3"
 order: 140
 slug: "131"
+era: "The Tetrarchy [284-324]"
 ---
 
 With the Tetrarchy in shambles, Diocletian will be called out of retirement in 308 AD to help broker a settlement. But the _new_ new order will prove as bad as the _old_ new order.

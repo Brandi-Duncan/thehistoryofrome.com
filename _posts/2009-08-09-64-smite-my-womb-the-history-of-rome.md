@@ -4,6 +4,7 @@ index: "64"
 audio: "64-smite-my-womb-the-history-of-rome.mp3"
 order: 73
 slug: "64"
+era: "The Julio-Claudian Dynasty [30 BC-AD 68]"
 ---
 
 After Nero came to power he was dominated by Agrippina. But it didn't take long before the 16-year-old Emperor got tired of his mother telling him what to do.

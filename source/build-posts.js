@@ -14,6 +14,7 @@ index: "${post.index}"
 audio: "${post.audio}"
 order: ${post.order}
 slug: "${post.index}"
+era: "${post.era}"
 ---
 
 ${toMarkdown(post.body).replace(
@@ -30,12 +31,12 @@ function writePost(post, n) {
   const filename = `${y}-${m}-${d}-${post.index}-${slug(post.title, { lower: true })}`;
 
   fs.writeFile(
-    __dirname + '/_posts/' + filename + '.md',
+    __dirname + '/../_posts/' + filename + '.md',
     getPostContent(post, n),
     (err) => { if (err) console.error(err); }
   );
 }
 
-rimraf(__dirname + '/_posts/*', () => {
+rimraf(__dirname + '/../_posts/*', () => {
   posts.forEach(writePost);
 });

@@ -4,6 +4,7 @@ index: "97"
 audio: "97-the-fall-of-hercules.mp3"
 order: 106
 slug: "97"
+era: "The Imperial Golden Age [AD 96-192]"
 ---
 
 Commodus went off the deep end around 190 AD. He was killed two years later by his inner circle.

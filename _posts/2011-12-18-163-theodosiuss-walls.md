@@ -4,6 +4,7 @@ index: "163"
 audio: "163-theodosiuss-walls.mp3"
 order: 172
 slug: "163"
+era: "The Fall of the West [AD 395-476]"
 ---
 
 Following the death of Eudoxia, the Praetorian Prefect Anthemius took control of the Eastern Empire and ran it wisely for the next decade. Meanwhile in the West, anti-barbarian policies will lead to the invasion of Italy by Alaric.

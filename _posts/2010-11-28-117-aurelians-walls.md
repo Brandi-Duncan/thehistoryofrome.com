@@ -4,6 +4,7 @@ index: "117"
 audio: "117-aurelians-walls.mp3"
 order: 126
 slug: "117"
+era: "The Crisis of the Third Century [AD 235-284]"
 ---
 
 Aurelian became Emperor in 270 and immediatly faced an invasion of Italy by the Juthungi. After succesfully driving the Germans off, Aurelian turned his attention to building a new wall circuit around Rome to protect the capital in the future.

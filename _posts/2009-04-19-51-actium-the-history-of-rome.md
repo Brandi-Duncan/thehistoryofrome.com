@@ -4,6 +4,7 @@ index: "51"
 audio: "51-actium-the-history-of-rome.mp3"
 order: 60
 slug: "51"
+era: "The Fall of the Republic [78-30 BC]"
 ---
 
 On Sept 2, 31 BC Octavian defeated Antony at the Battle of Actium. Antony and Cleopatra fled back to Alexandria where they committed suicide the next year, following Octavian's invasion of Egypt.  

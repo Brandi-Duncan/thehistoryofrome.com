@@ -4,6 +4,7 @@ index: "57"
 audio: "57-germanicus-the-history-of-rome.mp3"
 order: 66
 slug: "57"
+era: "The Julio-Claudian Dynasty [30 BC-AD 68]"
 ---
 
 The early years of Tiberius's reign were defined by his growing jealousy of his nephew/adopted son Germanicus. After winning victories on the far side of the Rhine, Germanicus was sent east, where in 19 AD he died under mysterious circumstances.

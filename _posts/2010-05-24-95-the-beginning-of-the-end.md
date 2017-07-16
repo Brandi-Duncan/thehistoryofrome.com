@@ -4,6 +4,7 @@ index: "95"
 audio: "95-the-beginning-of-the-end.mp3"
 order: 104
 slug: "95"
+era: "The Imperial Golden Age [AD 96-192]"
 ---
 
 Marcus elevated Commodus to the position of co-Emperor and then died a few years later while campaigning in the north.

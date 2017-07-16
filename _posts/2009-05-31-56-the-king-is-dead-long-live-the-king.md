@@ -4,6 +4,7 @@ index: "56"
 audio: "56-the-king-is-dead-long-live-the-king.mp3"
 order: 65
 slug: "56"
+era: "The Julio-Claudian Dynasty [30 BC-AD 68]"
 ---
 
 After putting his affairs in order and ensuring that the transition of power to Tiberius would be smooth, Augustus died on August 17, 14 AD.

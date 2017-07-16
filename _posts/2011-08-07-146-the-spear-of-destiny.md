@@ -4,6 +4,7 @@ index: "146"
 audio: "146-the-spear-of-destiny.mp3"
 order: 155
 slug: "146"
+era: "The Constantinian Dynasty [AD 324-364]"
 ---
 
 In 363 Julian launched an invasion of Sassanid Persia. He would die in battle just three months later.

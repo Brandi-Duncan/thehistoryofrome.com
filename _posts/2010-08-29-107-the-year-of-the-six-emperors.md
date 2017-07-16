@@ -4,6 +4,7 @@ index: "107"
 audio: "107-the-year-of-the-six-emperors.mp3"
 order: 116
 slug: "107"
+era: "The Crisis of the Third Century [AD 235-284]"
 ---
 
 In 238, a revolt in Africa sparked a revolution in Rome that would eventually lead to six different men claiming the title of Augustus.

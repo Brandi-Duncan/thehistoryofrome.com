@@ -4,6 +4,7 @@ index: "61"
 audio: "61-what-me-claudius.mp3"
 order: 70
 slug: "61"
+era: "The Julio-Claudian Dynasty [30 BC-AD 68]"
 ---
 
 Claudius became Emperor after the assassination of Caligula in 41 AD. Far from a bumbling fool, Claudius turned out to be capable and dedicated ruler.

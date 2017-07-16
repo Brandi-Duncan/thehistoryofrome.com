@@ -4,6 +4,7 @@ index: "141"
 audio: "141-blood-and-water.mp3"
 order: 150
 slug: "141"
+era: "The Constantinian Dynasty [AD 324-364]"
 ---
 
 Constantius and Constans shared the Empire for a decade until Constans was overthrown by a rebel general named Magnetius in 350 AD.

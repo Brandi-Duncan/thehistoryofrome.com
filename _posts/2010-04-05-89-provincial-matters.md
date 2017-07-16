@@ -4,6 +4,7 @@ index: "89"
 audio: "89-provincial-matters.mp3"
 order: 98
 slug: "89"
+era: "The Imperial Golden Age [AD 96-192]"
 ---
 
 In which I talk for way too long about where the best tin deposits in the Roman Empire can be found.

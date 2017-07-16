@@ -4,6 +4,7 @@ index: "65"
 audio: "65-burn-it-to-the-ground-the-history-of-rome.mp3"
 order: 74
 slug: "65"
+era: "The Julio-Claudian Dynasty [30 BC-AD 68]"
 ---
 
 Between 58 and 63 AD Rome dealt with a major conflict over the Kingdom of Armenia and a revolt in Britain led by the warrior Queen Boudica.

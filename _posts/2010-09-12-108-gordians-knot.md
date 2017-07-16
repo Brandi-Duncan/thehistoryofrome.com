@@ -4,6 +4,7 @@ index: "108"
 audio: "108-gordians-knot.mp3"
 order: 117
 slug: "108"
+era: "The Crisis of the Third Century [AD 235-284]"
 ---
 
 By August of 238, the other five men who had claimed a share of the purple were dead, leaving 13-year-old Gordian III as the last man standing.
