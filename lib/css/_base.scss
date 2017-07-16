@@ -35,3 +35,7 @@ audio {
   position: relative;
   z-index: 1;
 }
+
+.content > p {
+  max-width: 30rem;
+}
