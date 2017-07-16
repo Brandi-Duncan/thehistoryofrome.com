@@ -18,4 +18,5 @@ defaults:
   - scope:
       type: posts
     values:
+      layout: episode
       permalink: /episodes/:slug/

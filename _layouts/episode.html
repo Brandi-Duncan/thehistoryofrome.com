@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% assign nextOrder = page.order | plus: 1 %}
+{% assign nextEpisode = site.posts | where: "order", nextOrder | first %}
+{% assign prevOrder = page.order | minus: 1 %}
+{% assign prevEpisode = site.posts | where: "order", nextOrder | first %}
+
+
+<article class="episode">
+    <h1 class="episode__title">{{ page.title }}</h1>
+    <div class="episode__tags">
+        <div class="tag">Episode {{ page.index }}</div>
+    </div>
+    <audio class="episode__player" src="/lib/audio/{{ page.audio }}" controls></audio>
+    <div class="episode__body">
+        {{ content }}
+    </div>
+</article>
