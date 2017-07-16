@@ -1,17 +1,16 @@
 .episode__title {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-style: italic;
   line-height: 1.05;
-  margin-bottom: 0.25em;
-  margin-top: 1.5em;
 }
 
-.episode__tags {
-  margin-bottom: 3rem;
-}
+.episode__header {
+  margin: 4rem 0;
 
-.episode__player {
-  margin-bottom: 2rem;
+  > * {
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
 }
 
 .episode__body {
