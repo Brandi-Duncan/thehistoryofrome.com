@@ -4,7 +4,7 @@
 {% for era in eras %}
 <h2>{{ era.name }}</h2>
 <table class="episode-list">
-    <thead>
+    <tbody>
     {% for episode in era.items %}
         <tr>
             <td class="episode-list__index">{{ episode.index }}</td>
@@ -13,6 +13,6 @@
             </td>
         </tr>
     {% endfor %}
-    </thead>
+    </tbody>
 </table>
 {% endfor %}

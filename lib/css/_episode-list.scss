@@ -1,10 +1,14 @@
 .episode-list {
   border-collapse: collapse;
   width: 100%;
+
+  &:not(:last-child) {
+    margin-bottom: 2rem;
+  }
 }
 
 .episode-list td {
-  padding: 0.75em;
+  padding: 0.65em;
 }
 
 .episode-list tr:nth-child(odd) {
