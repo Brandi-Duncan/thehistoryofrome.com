@@ -1,8 +1,11 @@
 {% assign episodes = site.posts | sort: "order" %}
+{% assign eras = episodes | group_by: "era" %}
 
+{% for era in eras %}
+<h2>{{ era.name }}</h2>
 <table class="episode-list">
     <thead>
-    {% for episode in episodes %}
+    {% for episode in era.items %}
         <tr>
             <td class="episode-list__index">{{ episode.index }}</td>
             <td class="episode-list__title">
@@ -12,3 +15,4 @@
     {% endfor %}
     </thead>
 </table>
+{% endfor %}
