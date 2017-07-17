@@ -1,5 +1,6 @@
 .header {
-  background-color: $color-white;
+//  background-color: $color-white;
+  background-image: url("/lib/images/tile-texture.jpg");
   border-bottom: solid 1px rgba($color-black, 0.1);
   display: flex;
   justify-content: space-between;
@@ -17,23 +18,29 @@
   text-decoration: none;
 
   &:hover {
+    color: $color-gold;
     text-decoration: underline;
   }
 }
 
 .header__name {
-  color: $color-red;
+  color: $color-dark-brown;
   font-size: 1.125rem;
   margin-right: 1em;
   white-space: nowrap;
 }
 
 .header__nav {
+  color: $color-dark-brown;
   display: flex;
   flex-wrap: wrap;
   font-size: 0.875rem;
 }
 
 .header__nav > a:not(:last-child) {
-  padding-right: 1em;
+  padding-right: 2.5em;
+}
+
+.logo {
+    max-width: 5em;
 }

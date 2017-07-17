@@ -12,7 +12,7 @@
 }
 
 .episode-list tr:nth-child(odd) {
-  background-color: rgba($color-navy, 0.025);
+  background-color: rgba($color-brown, 0.025);
 }
 
 .episode-list__index {
@@ -24,7 +24,7 @@
   text-decoration: none;
 
   &:hover {
-    color: $color-red;
+    color: $color-gold;
     text-decoration: underline;
   }
 }
