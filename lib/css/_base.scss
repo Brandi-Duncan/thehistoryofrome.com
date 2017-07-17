@@ -9,8 +9,8 @@ html {
 }
 
 body {
-  background-color: $color-grey;
-  color: $color-navy;
+  background: $color-grey;
+  color: $color-dark-brown;
   font-family: "Alegreya Sans", Georgia, serif;
   font-size: 1rem;
   line-height: 1.45;
@@ -29,7 +29,8 @@ audio {
 }
 
 .content {
-  background-color: $color-white;
+//  background-color: $color-white;
+  background-image: url("/lib/images/tile-texture.jpg");
   display: block;
   padding: 1.5rem 1.5rem 2rem;
   position: relative;
@@ -39,3 +40,4 @@ audio {
 .content > p {
   max-width: 30rem;
 }
+

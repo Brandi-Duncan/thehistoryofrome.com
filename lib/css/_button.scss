@@ -1,6 +1,6 @@
 .button {
   -webkit-font-smoothing: antialiased;
-  background-color: $color-navy;
+  background-color: $color-gold;
   border-radius: 4px;
   box-shadow: 0 0 10px rgba($color-black, 0.1);
   color: $color-white;
@@ -15,7 +15,7 @@
   }
 
   &--primary {
-    background-color: $color-red;
+    background-color: $color-gold;
   }
 
   &--outline {
