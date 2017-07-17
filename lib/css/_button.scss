@@ -17,4 +17,10 @@
   &--primary {
     background-color: $color-red;
   }
+
+  &--outline {
+    background-color: transparent;
+    border: solid 2px $color-grey;
+    color: $color-grey;
+  }
 }

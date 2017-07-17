@@ -5,7 +5,7 @@ layout: default
 {% assign nextOrder = page.order | plus: 1 %}
 {% assign nextEpisode = site.posts | where: "order", nextOrder | first %}
 {% assign prevOrder = page.order | minus: 1 %}
-{% assign prevEpisode = site.posts | where: "order", nextOrder | first %}
+{% assign prevEpisode = site.posts | where: "order", prevOrder | first %}
 
 
 <article class="episode">
