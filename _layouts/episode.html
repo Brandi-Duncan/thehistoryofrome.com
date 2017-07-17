@@ -20,4 +20,12 @@ layout: default
     <div class="episode__body">
         {{ content }}
     </div>
+    <nav class="episode__nav">
+        {% if prevEpisode %}
+            <a class="button button--outline" href="{{ prevEpisode.url }}">&larr; Previous</a>
+        {% endif %}
+        {% if nextEpisode %}
+            <a class="button button--outline" href="{{ nextEpisode.url }}">Next &rarr;</a>
+        {% endif %}
+    </nav>
 </article>

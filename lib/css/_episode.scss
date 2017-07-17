@@ -14,5 +14,18 @@
 }
 
 .episode__body {
+  margin-bottom: 4rem;
   max-width: 30rem;
+}
+
+.episode__nav {
+  display: flex;
+  justify-content: space-between;
+
+  > a {
+    text-align: center;
+    width: 50%;
+
+    &:first-child { margin-right: 1rem; }
+  }
 }
