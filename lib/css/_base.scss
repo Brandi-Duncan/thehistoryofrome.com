@@ -20,6 +20,10 @@ body {
 
 a {
   color: inherit;
+    
+    &:hover {
+    color: $color-gold;
+  }
 }
 
 img,
