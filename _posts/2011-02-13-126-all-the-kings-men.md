@@ -9,6 +9,6 @@ era: "The Tetrarchy [284-324]"
 
 Over the course of his reign Diocletian overhauled the government, transforming it into a centralized bureaucracy run by career civil servants.
 
-Link to a good map of the Empire c 400 AD showing the new provincial organization established by Diocletian: [http://upload.wikimedia.org/wikipedia/commons/0/04/The_Roman_Empire_ca_400_AD.png](http://upload.wikimedia.org/wikipedia/commons/0/04/The_Roman_Empire_ca_400_AD.png)
+[A good map of the Empire c 400 AD](http://upload.wikimedia.org/wikipedia/commons/0/04/The_Roman_Empire_ca_400_AD.png) showing the new provincial organization established by Diocletian.
 
 

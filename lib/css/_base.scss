@@ -20,6 +20,10 @@ body {
 
 a {
   color: inherit;
+    
+    &:hover {
+    color: $color-gold;
+  }
 }
 
 img,
@@ -41,3 +45,14 @@ audio {
   max-width: 30rem;
 }
 
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+h1 {
+    line-height: 2rem;
+    max-width: 30rem;
+}

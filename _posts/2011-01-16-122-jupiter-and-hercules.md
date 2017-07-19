@@ -9,8 +9,8 @@ era: "The Tetrarchy [284-324]"
 
 Immediatly after becoming the undisputed Emperor in 285, Diocletian elevated Maximian to serve as his Imperial colleague.
 
-Podcast Squared Interview: [http://lifestylepodnetwork.com.au/podcastsquared/podcast-squared-31-savage-history/](http://lifestylepodnetwork.com.au/podcastsquared/podcast-squared-31-savage-history/)
+[Podcast Squared Interview](http://lifestylepodnetwork.com.au/podcastsquared/podcast-squared-31-savage-history/)
 
-KOOP Radio[:](http://www.koop.org) [www.koop.org](http://www.koop.org)
+[KOOP Radio](http://www.koop.org)
 
 
