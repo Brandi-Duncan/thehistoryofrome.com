@@ -33,7 +33,6 @@ audio {
 }
 
 .content {
-//  background-color: $color-white;
   background-image: url("/lib/images/tile-texture.jpg");
   display: block;
   padding: 1.5rem 1.5rem 2rem;
@@ -43,13 +42,6 @@ audio {
 
 .content > p {
   max-width: 30rem;
-}
-
-.flex {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
 }
 
 h1 {
