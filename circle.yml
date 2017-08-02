@@ -21,4 +21,4 @@ deployment:
     branch: master
     commands:
       - ssh $TARGET_USER@$TARGET_HOST "mkdir -p $TARGET_DIR"
-      - rsync -azp $BUILD_DIR $TARGET_USER@$TARGET_HOST:$TARGET_DIR
+      - rsync -azpO $BUILD_DIR $TARGET_USER@$TARGET_HOST:$TARGET_DIR
