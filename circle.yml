@@ -1,0 +1,24 @@
+machine:
+  environment:
+    TARGET_HOST: thehistoryofrome.com
+    TARGET_USER: deploy
+    TARGET_PORT: 22
+    TARGET_DIR: /var/www/html/thehistoryofrome.com/
+    BUILD_DIR: ./_site/
+
+dependencies:
+  post:
+    - bundle exec jekyll build
+
+# Skip any testing
+test:
+  override:
+    - exit 0
+
+# Deploy
+deployment:
+  master:
+    branch: master
+    commands:
+      - ssh $TARGET_USER@$TARGET_HOST "mkdir -p $TARGET_DIR"
+      - rsync -azp $BUILD_DIR $TARGET_USER@$TARGET_HOST:$TARGET_DIR
