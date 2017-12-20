@@ -16,7 +16,7 @@ layout: default
             <div class="tag">{{ page.era }}</div>
         </div>
         <audio src="/lib/audio/{{ page.audio }}" controls></audio>
-        <a href="{{ page.audio }}" class="button button--primary" download>Download Episode {{ page.index }}</a>
+        <a href="/lib/audio/{{ page.audio }}" class="button button--primary" download>Download Episode {{ page.index }}</a>
     </header>
     <div class="episode__body">
         {{ content }}
